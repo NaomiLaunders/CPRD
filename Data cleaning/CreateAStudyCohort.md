@@ -1,5 +1,5 @@
 # Creating a cohort with specific inclusion and exclusion criteria
-Note, this assumes the study start and end date as set in the [CPRD merged cohort] (https://github.com/NaomiLaunders/NaomiLaunders/blob/main/Data%20cleaning/CPRDMergedCohort.md) file.
+Note, this assumes the study start and end date as set in the [CPRD merged cohort](https://github.com/NaomiLaunders/NaomiLaunders/blob/main/Data%20cleaning/CPRDMergedCohort.md) file.
 
 The comparator variable is SMI = 0, no SMI = 1.
 
