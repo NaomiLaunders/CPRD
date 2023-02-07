@@ -48,6 +48,8 @@ for (i in (1:length(num))) {
   PatObs<-merge(x=PatAurum, y=tempobs, by = "patid", all.y = FALSE, all.x=FALSE)
 #Save to new file as .Rdata
   save(PatObs, file = NewFile)
+#Add a print function to tell you where you are in the loop
+  print(num[i])
 }
 
 #Remove files
@@ -95,6 +97,7 @@ for (i in (1:length(Observation_files))) {
   tempobs<-ReadObsG(FileName)
   PatObs<-merge(x=PatGold, y=tempobs, by = "patid", all.y = FALSE, all.x=FALSE)
   save(PatObs, file = NewFile)
+  print(num[i])
 }
 
 #Create a list of numbers so they run sequentially from those in clinical, to those in referral to those in test tables
@@ -111,6 +114,7 @@ for (i in (1:length(Observation_files1))) {
   tempobs<-ReadObsG(FileName)
   PatObs<-merge(x=PatGold, y=tempobs, by = "patid", all.y = FALSE, all.x=FALSE)
   save(PatObs, file = NewFile)
+  print(num[i])
 }
 
 #Select only those that are related to the patients of interest for referral table
@@ -120,6 +124,7 @@ for (i in (1:length(Observation_files2))) {
   tempobs<-ReadObsG(FileName)
   PatObs<-merge(x=PatGold, y=tempobs, by = "patid", all.y = FALSE, all.x=FALSE)
   save(PatObs, file = NewFile)
+  print(num[i])
 }
 #clear workspace
 rm(list = ls(all.names = TRUE))
