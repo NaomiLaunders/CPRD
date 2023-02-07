@@ -1,7 +1,7 @@
 # Pulling out BMI observations for a cohort
 BMI can be recorded as a value, as a category, or can be calculated from weight and height values. Therefore, we pull out all three and in this instance I have taken the heaviest ever recorded.
 
-Note, this is dependent on [observations saved as .rdata files](https://github.com/NaomiLaunders/NaomiLaunders/blob/main/Data%20cleaning/Limit%20observations%20to%20those%20for%20our%20cohort.md)
+Note, this is dependent on [observations saved as .rdata files](https://github.com/NaomiLaunders/CPRD/blob/main/Data%20cleaning/1%20Limit%20observations%20to%20those%20for%20our%20cohort.md)
 ## Find listed BMI value for Aurum
 ````
 library(tidyverse)
