@@ -1,5 +1,5 @@
 # Pull in SMI diagnosis and dates for the cohort
-Note, this is dependent on [the observations already being converted to R files.](https://github.com/NaomiLaunders/NaomiLaunders/blob/main/Data%20cleaning/Limit%20observations%20to%20those%20for%20our%20cohort.md)  The same logic can be applied to any other clinical diagnosis provided the codelists are available.
+Note, this is dependent on [the observations already being converted to R files.](https://github.com/NaomiLaunders/NaomiLaunders/blob/main/Data%20cleaning/Limit%20observations%20to%20those%20for%20our%20cohort.md) The same logic can be applied to any other clinical diagnosis provided the codelists are available.
 
 ## Load the SMI cohort and libraries
 ````library(tidyverse)
