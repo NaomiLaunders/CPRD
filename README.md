@@ -2,10 +2,10 @@
 
 This repository holds key examples of cleaning CPRD, HES and MHDS in R to create the cohort which I used in my PhD thesis and the following papers:
 
-  *[The incidence rate of planned and emergency physical health hospital admission in people with severe mental illness: A cohort study](https://pubmed.ncbi.nlm.nih.gov/36069188/)
-  *[Incidence and associations of hospital delirium diagnoses in 85,979 people with severe mental illness: a data linkage study](https://pubmed.ncbi.nlm.nih.gov/35869544/)
-  *[Clustering of physical health multimorbidity in people with severe mental illness: An accumulated prevalence analysis of United Kingdom primary care data](https://pubmed.ncbi.nlm.nih.gov/35442948/)
-  *[The temporal relationship between severe mental illness diagnosis and chronic physical comorbidity: a UK primary care cohort study of disease burden over 10 years](https://pubmed.ncbi.nlm.nih.gov/35871794/)
+  *[The incidence rate of planned and emergency physical health hospital admission in people with severe mental illness: A cohort study](https://pubmed.ncbi.nlm.nih.gov/36069188/)  
+  *[Incidence and associations of hospital delirium diagnoses in 85,979 people with severe mental illness: a data linkage study](https://pubmed.ncbi.nlm.nih.gov/35869544/)  
+  *[Clustering of physical health multimorbidity in people with severe mental illness: An accumulated prevalence analysis of United Kingdom primary care data](https://pubmed.ncbi.nlm.nih.gov/35442948/)  
+  *[The temporal relationship between severe mental illness diagnosis and chronic physical comorbidity: a UK primary care cohort study of disease burden over 10 years](https://pubmed.ncbi.nlm.nih.gov/35871794/)  
   *[Cancer rates and mortality in people with severe mental illness: Further evidence of lack of parity](https://pubmed.ncbi.nlm.nih.gov/35858503/)
 
 
