@@ -10,7 +10,8 @@ Patients<-select(AllSMI, patid, source)
 PatAurum<-subset(Patients, Patients$source=="Aurum")
 PatGold<-subset(Patients, Patients$source=="Gold")
 ````  
-## Create a function that loads the observations and ensures medcodes and patient IDs stay as character variables
+## Create a function that loads the observations and ensures medcodes and patient IDs stay as character variables  
+
 ````
 #Gold
 ReadObsG <- function (x) { 
@@ -20,9 +21,10 @@ ReadObsG <- function (x) {
 ReadObsA <- function (x) { 
   read.table(x, header = TRUE, sep = "\t", dec = ".", quote="", colClasses=c(medcodeid="character", patid="character"))
 }
-````
+````  
 
-## Aurum: Loop through observation files and save them as new R files limited to just the patients I am interested in
+## Aurum: Loop through observation files and save them as new R files limited to just the patients I am interested in  
+
 ````
 #Set path to where original .txt files from CPRD are stored and create a list of all files
 setwd ('FILEPATH/observations/AurumObservation')
@@ -51,8 +53,10 @@ for (i in (1:length(num))) {
 #Remove files
 rm(tempobs)
 rm(PatObs)
-````
-## Gold: Loop through clinical, referral and test files
+````  
+
+## Gold: Loop through clinical, referral and test files  
+
 ````
 #Set path to where original .txt files from CPRD are stored and create a list of all files
 setwd ('FILEPATH/observations/GoldClinical')
