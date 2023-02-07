@@ -55,7 +55,7 @@ rm(tempobs)
 rm(PatObs)
 ````  
 
-## Gold: Loop through clinical, referral and test files  
+## Gold: Loop through clinical, referral and test files and save as general observations to mimic Aurum  
 
 ````
 #Set path to where original .txt files from CPRD are stored and create a list of all files
