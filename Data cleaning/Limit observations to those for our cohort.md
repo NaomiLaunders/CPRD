@@ -1,6 +1,6 @@
 # Limiting observations to our data set
 
-The observation files provided from CPRD in this project included observations for patients not included in our data set. Therefore, the first step was to limit all observations to those that apply to the patients we are interested in.
+The observation files provided from CPRD in this project included observations for patients not included in our data set. Therefore, the first step was to limit all observations to those that apply to the patients we are interested in. Note, the same logic can be applied to therapy files for studies requiring prescription data.
 
 ## Load clean data and create patient lists
 
