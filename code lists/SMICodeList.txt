@@ -1,0 +1,300 @@
+﻿Read code	Term	Group
+E110	"Manic disorder, single episode"	bipolar
+E110-1	Hypomanic psychoses	bipolar
+E110-99	Mania/hypomania	bipolar
+E1100	"Single manic episode, unspecified"	bipolar
+E1101	"Single manic episode, mild"	bipolar
+E1102	"Single manic episode, moderate"	bipolar
+E1103	"Single manic episode, severe without mention of psychosis"	bipolar
+E1104	"Single manic episode, severe, with psychosis"	bipolar
+E1105	Single manic episode in partial or unspecified remission	bipolar
+E1106	Single manic episode in full remission	bipolar
+E110z	"Manic disorder, single episode NOS"	bipolar
+E111	Recurrent manic episodes	bipolar
+E1110	"Recurrent manic episodes, unspecified"	bipolar
+E1111	"Recurrent manic episodes, mild"	bipolar
+E1112	"Recurrent manic episodes, moderate"	bipolar
+E1113	"Recurrent manic episodes, severe without mention psychosis"	bipolar
+E1114	"Recurrent manic episodes, severe, with psychosis"	bipolar
+E1115	"Recurrent manic episodes, partial or unspecified remission"	bipolar
+E1116	"Recurrent manic episodes, in full remission"	bipolar
+E111z	Recurrent manic episode NOS	bipolar
+E114	"Bipolar affective disorder, currently manic"	bipolar
+E114-1	Manic-depressive - now manic	bipolar
+E1140	"Bipolar affective disorder, currently manic, unspecified"	bipolar
+E1141	"Bipolar affective disorder, currently manic, mild"	bipolar
+E1142	"Bipolar affective disorder, currently manic, moderate"	bipolar
+E1143	"Bipolar affect disord, currently manic, severe, no psychosis"	bipolar
+E1144	"Bipolar affect disord, currently manic,severe with psychosis"	bipolar
+E1145	"Bipolar affect disord,currently manic, part/unspec remission"	bipolar
+E1146	"Bipolar affective disorder, currently manic, full remission"	bipolar
+E114z	"Bipolar affective disorder, currently manic, NOS"	bipolar
+E115	"Bipolar affective disorder, currently depressed"	bipolar
+E115-1	Manic-depressive - now depressed	bipolar
+E1150	"Bipolar affective disorder, currently depressed, unspecified"	bipolar
+E1151	"Bipolar affective disorder, currently depressed, mild"	bipolar
+E1152	"Bipolar affective disorder, currently depressed, moderate"	bipolar
+E1153	"Bipolar affect disord, now depressed, severe, no psychosis"	bipolar
+E1154	"Bipolar affect disord, now depressed, severe with psychosis"	bipolar
+E1155	"Bipolar affect disord, now depressed, part/unspec remission"	bipolar
+E1156	"Bipolar affective disorder, now depressed, in full remission"	bipolar
+E115z	"Bipolar affective disorder, currently depressed, NOS"	bipolar
+E116	Mixed bipolar affective disorder	bipolar
+E1160	"Mixed bipolar affective disorder, unspecified"	bipolar
+E1161	"Mixed bipolar affective disorder, mild"	bipolar
+E1162	"Mixed bipolar affective disorder, moderate"	bipolar
+E1163	"Mixed bipolar affective disorder, severe, without psychosis"	bipolar
+E1164	"Mixed bipolar affective disorder, severe, with psychosis"	bipolar
+E1165	"Mixed bipolar affective disorder, partial/unspec remission"	bipolar
+E1166	"Mixed bipolar affective disorder, in full remission"	bipolar
+E116z	"Mixed bipolar affective disorder, NOS"	bipolar
+E117	Unspecified bipolar affective disorder	bipolar
+E1170	"Unspecified bipolar affective disorder, unspecified"	bipolar
+E1171	"Unspecified bipolar affective disorder, mild"	bipolar
+E1172	"Unspecified bipolar affective disorder, moderate"	bipolar
+E1173	"Unspecified bipolar affective disorder, severe, no psychosis"	bipolar
+E1174	"Unspecified bipolar affective disorder,severe with psychosis"	bipolar
+E1175	"Unspecified bipolar affect disord, partial/unspec remission"	bipolar
+E1176	"Unspecified bipolar affective disorder, in full remission"	bipolar
+E117z	"Unspecified bipolar affective disorder, NOS"	bipolar
+E11y	Other and unspecified manic-depressive psychoses	bipolar
+E11y0	Unspecified manic-depressive psychoses	bipolar
+E11y1	Atypical manic disorder	bipolar
+E11y3	Other mixed manic-depressive psychoses	bipolar
+E11yz	Other and unspecified manic-depressive psychoses NOS	bipolar
+E11z	Other and unspecified affective psychoses	bipolar
+E11z0	Unspecified affective psychoses NOS	bipolar
+E11zz	Other affective psychosis NOS	bipolar
+Eu20	[X]Schizophrenia	schizophrenia
+Eu30	[X]Manic episode	bipolar
+Eu30-1	"[X]Bipolar disorder, single manic episode"	bipolar
+Eu300	[X]Hypomania	bipolar
+Eu301	[X]Mania without psychotic symptoms	bipolar
+Eu302	[X]Mania with psychotic symptoms	bipolar
+Eu302-1	[X]Mania with mood-congruent psychotic symptoms	bipolar
+Eu302-2	[X]Mania with mood-incongruent psychotic symptoms	bipolar
+Eu302-3	[X]Manic stupor	bipolar
+Eu30y	[X]Other manic episodes	bipolar
+Eu30z	"[X]Manic episode, unspecified"	bipolar
+Eu30z-1	[X]Mania NOS	bipolar
+Eu31	[X]Bipolar affective disorder	bipolar
+Eu31-1	[X]Manic-depressive illness	bipolar
+Eu31-2	[X]Manic-depressive psychosis	bipolar
+Eu31-3	[X]Manic-depressive reaction	bipolar
+Eu310	"[X]Bipolar affective disorder, current episode hypomanic"	bipolar
+Eu311	[X]Bipolar affect disorder cur epi manic wout psychotic symp	bipolar
+Eu312	[X]Bipolar affect disorder cur epi manic with psychotic symp	bipolar
+Eu313	[X]Bipolar affect disorder cur epi mild or moderate depressn	bipolar
+Eu314	"[X]Bipol aff disord, curr epis sev depress, no psychot symp"	bipolar
+Eu315	[X]Bipolar affect dis cur epi severe depres with psyc symp	bipolar
+Eu316	"[X]Bipolar affective disorder, current episode mixed"	bipolar
+Eu317	"[X]Bipolar affective disorder, currently in remission"	bipolar
+Eu318	[X]Bipolar affective disorder type I	bipolar
+Eu31y	[X]Other bipolar affective disorders	bipolar
+Eu31y-1	[X]Bipolar II disorder	bipolar
+Eu31y-2	[X]Recurrent manic episodes	bipolar
+Eu31z	"[X]Bipolar affective disorder, unspecified"	bipolar
+Eu333-2	"[X]Manic-depress psychosis,depressed type+psychotic symptoms"	bipolar
+E11	Affective psychoses	bipolar
+E11-1	Bipolar psychoses	bipolar
+E11-99	Manic-depressive psychoses	bipolar
+Eu3z-1	[X]Affective psychosis NOS	bipolar
+146D	H/O: manic depressive disorder	bipolar
+1S42	Manic mood	bipolar
+ZV111-1	[V]Personal history of manic-depressive psychosis	bipolar
+ZV111-2	[V]Personal history of manic-depressive psychosis	bipolar
+Eu332-3	"[X]Manic-depress psychosis,depressd,no psychotic symptoms"	bipolar
+E104-1	Oneirophrenia	other psychosis
+E105	Latent schizophrenia	other psychosis
+E1050	Unspecified latent schizophrenia	other psychosis
+E1051	Subchronic latent schizophrenia	other psychosis
+E1052	Chronic latent schizophrenia	other psychosis
+E1053	Acute exacerbation of subchronic latent schizophrenia	other psychosis
+E1054	Acute exacerbation of chronic latent schizophrenia	other psychosis
+E1055	Latent schizophrenia in remission	other psychosis
+E105z	Latent schizophrenia NOS	other psychosis
+E107-1	Cyclic schizophrenia	other psychosis
+E107-99	Acute schizo affective psychosis	other psychosis
+E12	Paranoid states	other psychosis
+E12-99	Paranoia	other psychosis
+E120	Simple paranoid state	other psychosis
+E121	Chronic paranoid psychosis	other psychosis
+E121-1	Sander's disease	other psychosis
+E122	Paraphrenia	other psychosis
+E123	Shared paranoid disorder	other psychosis
+E123-1	Folie a deux	other psychosis
+E12y	Other paranoid states	other psychosis
+E12y0	Paranoia querulans	other psychosis
+E12yz	Other paranoid states NOS	other psychosis
+E12z	Paranoid psychosis NOS	other psychosis
+E13	Other nonorganic psychoses	other psychosis
+E13-1	Reactive psychoses	other psychosis
+E131	Acute hysterical psychosis	other psychosis
+E133	Acute paranoid reaction	other psychosis
+E133-1	Bouffee delirante	other psychosis
+E134	Psychogenic paranoid psychosis	other psychosis
+E13y	Other reactive psychoses	other psychosis
+E13y0	Psychogenic stupor	other psychosis
+E13y1	Brief reactive psychosis	other psychosis
+E13yz	Other reactive psychoses NOS	other psychosis
+E13z	Nonorganic psychosis NOS	other psychosis
+E13z-1	Psychotic episode NOS	other psychosis
+Eu2	"[X]Schizophrenia, schizotypal and delusional disorders"	other psychosis
+Eu21	[X]Schizotypal disorder	other psychosis
+Eu21-1	[X]Latent schizophrenic reaction	other psychosis
+Eu21-2	[X]Borderline schizophrenia	other psychosis
+Eu21-3	[X]Latent schizophrenia	other psychosis
+Eu21-4	[X]Prepsychotic schizophrenia	other psychosis
+Eu21-5	[X]Prodromal schizophrenia	other psychosis
+Eu21-6	[X]Pseudoneurotic schizophrenia	other psychosis
+Eu21-7	[X]Pseudopsychopathic schizophrenia	other psychosis
+Eu21-8	[X]Schizotypal personality disorder	other psychosis
+Eu22	[X]Persistent delusional disorders	other psychosis
+Eu220	[X]Delusional disorder	other psychosis
+Eu220-1	[X]Paranoid psychosis	other psychosis
+Eu220-2	[X]Paranoid state	other psychosis
+Eu220-3	[X]Paraphrenia - late	other psychosis
+Eu220-4	[X]Sensitiver Beziehungswahn	other psychosis
+Eu220-5	[X]Paranoia	other psychosis
+Eu221	[X]Delusional misidentification syndrome	other psychosis
+Eu221-1	[X]Capgras syndrome	other psychosis
+Eu22y	[X]Other persistent delusional disorders	other psychosis
+Eu22y-1	[X]Delusional dysmorphophobia	other psychosis
+Eu22y-2	[X]Involutional paranoid state	other psychosis
+Eu22y-3	[X]Paranoia querulans	other psychosis
+Eu22z	"[X]Persistent delusional disorder, unspecified"	other psychosis
+Eu23	[X]Acute and transient psychotic disorders	other psychosis
+Eu230	[X]Acute polymorphic psychot disord without symp of schizoph	other psychosis
+Eu230-1	[X]Bouffee delirante	other psychosis
+Eu230-2	[X]Cycloid psychosis	other psychosis
+Eu231	[X]Acute polymorphic psychot disord with symp of schizophren	other psychosis
+Eu231-1	[X]Bouffee delirante with symptoms of schizophrenia	other psychosis
+Eu231-2	[X]Cycloid psychosis with symptoms of schizophrenia	other psychosis
+Eu232	[X]Acute schizophrenia-like psychotic disorder	other psychosis
+Eu232-1	[X]Brief schizophreniform disorder	other psychosis
+Eu232-2	[X]Brief schizophrenifrm psych	other psychosis
+Eu232-3	[X]Oneirophrenia	other psychosis
+Eu233	[X]Other acute predominantly delusional psychotic disorders	other psychosis
+Eu233-2	[X]Psychogenic paranoid psychosis	other psychosis
+Eu23y	[X]Other acute and transient psychotic disorders	other psychosis
+Eu23z	"[X]Acute and transient psychotic disorder, unspecified"	other psychosis
+Eu23z-1	[X]Brief reactive psychosis NOS	other psychosis
+Eu23z-2	[X]Reactive psychosis	other psychosis
+Eu24	[X]Induced delusional disorder	other psychosis
+Eu24-1	[X]Folie a deux	other psychosis
+Eu24-2	[X]Induced paranoid disorder	other psychosis
+Eu24-3	[X]Induced psychotic disorder	other psychosis
+Eu25	[X]Schizoaffective disorders	other psychosis
+Eu250	"[X]Schizoaffective disorder, manic type"	other psychosis
+Eu250-1	"[X]Schizoaffective psychosis, manic type"	other psychosis
+Eu250-2	"[X]Schizophreniform psychosis, manic type"	other psychosis
+Eu251	"[X]Schizoaffective disorder, depressive type"	other psychosis
+Eu251-1	"[X]Schizoaffective psychosis, depressive type"	other psychosis
+Eu251-2	"[X]Schizophreniform psychosis, depressive type"	other psychosis
+Eu252	"[X]Schizoaffective disorder, mixed type"	other psychosis
+Eu252-1	[X]Cyclic schizophrenia	other psychosis
+Eu252-2	[X]Mixed schizophrenic and affective psychosis	other psychosis
+Eu25y	[X]Other schizoaffective disorders	other psychosis
+Eu25z	"[X]Schizoaffective disorder, unspecified"	other psychosis
+Eu25z-1	[X]Schizoaffective psychosis NOS	other psychosis
+Eu2y	[X]Other nonorganic psychotic disorders	other psychosis
+Eu2y-1	[X]Chronic hallucinatory psychosis	other psychosis
+Eu2z	[X]Unspecified nonorganic psychosis	other psychosis
+Eu2z-1	[X]Psychosis NOS	other psychosis
+E11-3	Manic psychoses	other psychosis
+E1z	Non-organic psychosis NOS	other psychosis
+146H	H/O: psychosis	other psychosis
+E1	Non-organic psychoses	other psychosis
+E1y	Other specified non-organic psychoses	other psychosis
+Eu531-1	[X]Puerperal psychosis NOS	other psychosis
+Eu843-4	[X]Symbiotic psychosis	other psychosis
+E10	Schizophrenic disorders	schizophrenia
+E10-98	Schizophrenic psychoses NOS	schizophrenia
+E10-99	Schizophrenic psychoses	schizophrenia
+E100	Simple schizophrenia	schizophrenia
+E100-1	Schizophrenia simplex	schizophrenia
+E1000	Unspecified schizophrenia	schizophrenia
+E1001	Subchronic schizophrenia	schizophrenia
+E1002	Chronic schizophrenic	schizophrenia
+E1003	Acute exacerbation of subchronic schizophrenia	schizophrenia
+E1004	Acute exacerbation of chronic schizophrenia	schizophrenia
+E1005	Schizophrenia in remission	schizophrenia
+E100z	Simple schizophrenia NOS	schizophrenia
+E101	Hebephrenic schizophrenia	schizophrenia
+E1010	Unspecified hebephrenic schizophrenia	schizophrenia
+E1011	Subchronic hebephrenic schizophrenia	schizophrenia
+E1012	Chronic hebephrenic schizophrenia	schizophrenia
+E1013	Acute exacerbation of subchronic hebephrenic schizophrenia	schizophrenia
+E1014	Acute exacerbation of chronic hebephrenic schizophrenia	schizophrenia
+E1015	Hebephrenic schizophrenia in remission	schizophrenia
+E101z	Hebephrenic schizophrenia NOS	schizophrenia
+E102	Catatonic schizophrenia	schizophrenia
+E1020	Unspecified catatonic schizophrenia	schizophrenia
+E1021	Subchronic catatonic schizophrenia	schizophrenia
+E1022	Chronic catatonic schizophrenia	schizophrenia
+E1023	Acute exacerbation of subchronic catatonic schizophrenia	schizophrenia
+E1024	Acute exacerbation of chronic catatonic schizophrenia	schizophrenia
+E1025	Catatonic schizophrenia in remission	schizophrenia
+E102z	Catatonic schizophrenia NOS	schizophrenia
+E103	Paranoid schizophrenia	schizophrenia
+E1030	Unspecified paranoid schizophrenia	schizophrenia
+E1031	Subchronic paranoid schizophrenia	schizophrenia
+E1032	Chronic paranoid schizophrenia	schizophrenia
+E1033	Acute exacerbation of subchronic paranoid schizophrenia	schizophrenia
+E1034	Acute exacerbation of chronic paranoid schizophrenia	schizophrenia
+E1035	Paranoid schizophrenia in remission	schizophrenia
+E103z	Paranoid schizophrenia NOS	schizophrenia
+E104	Acute schizophrenic episode	schizophrenia
+E106	Residual schizophrenia	schizophrenia
+E106-1	Restzustand - schizophrenia	schizophrenia
+E107	Schizo-affective schizophrenia	schizophrenia
+E1070	Unspecified schizo-affective schizophrenia	schizophrenia
+E1071	Subchronic schizo-affective schizophrenia	schizophrenia
+E1072	Chronic schizo-affective schizophrenia	schizophrenia
+E1073	Acute exacerbation subchronic schizo-affective schizophrenia	schizophrenia
+E1074	Acute exacerbation of chronic schizo-affective schizophrenia	schizophrenia
+E1075	Schizo-affective schizophrenia in remission	schizophrenia
+E107z	Schizo-affective schizophrenia NOS	schizophrenia
+E10y	Other schizophrenia	schizophrenia
+E10y-1	Cenesthopathic schizophrenia	schizophrenia
+E10y0	Atypical schizophrenia	schizophrenia
+E10y1	Coenesthopathic schizophrenia	schizophrenia
+E10yz	Other schizophrenia NOS	schizophrenia
+E10z	Schizophrenia NOS	schizophrenia
+Eu200	[X]Paranoid schizophrenia	schizophrenia
+Eu200-1	[X]Paraphrenic schizophrenia	schizophrenia
+Eu201	[X]Hebephrenic schizophrenia	schizophrenia
+Eu201-1	[X]Disorganised schizophrenia	schizophrenia
+Eu202	[X]Catatonic schizophrenia	schizophrenia
+Eu202-1	[X]Catatonic stupor	schizophrenia
+Eu202-2	[X]Schizophrenic catalepsy	schizophrenia
+Eu202-3	[X]Schizophrenic catatonia	schizophrenia
+Eu202-4	[X]Schizophrenic flexibilatis cerea	schizophrenia
+Eu203	[X]Undifferentiated schizophrenia	schizophrenia
+Eu203-1	[X]Atypical schizophrenia	schizophrenia
+Eu204	[X]Post-schizophrenic depression	schizophrenia
+Eu205	[X]Residual schizophrenia	schizophrenia
+Eu205-1	[X]Chronic undifferentiated schizophrenia	schizophrenia
+Eu205-2	[X]Restzustand schizophrenic	schizophrenia
+Eu206	[X]Simple schizophrenia	schizophrenia
+Eu20y	[X]Other schizophrenia	schizophrenia
+Eu20y-1	[X]Cenesthopathic schizophrenia	schizophrenia
+Eu20y-2	[X]Schizophreniform disord NOS	schizophrenia
+Eu20y-3	[X]Schizophrenifrm psychos NOS	schizophrenia
+Eu20z	"[X]Schizophrenia, unspecified"	schizophrenia
+Eu232-4	[X]Schizophrenic reaction	schizophrenia
+ZV110	[V]Personal history of schizophrenia	schizophrenia
+1464	H/O: schizophrenia	schizophrenia
+		
+Additional EMIS codes	Term	Group
+EMISQHY1	Hypomanic	bipolar
+EGTON118	Obsessional compulsive psychosis	other psychosis
+EMISCDE13	Delusions	other psychosis
+EMISICD10|F2381	"Other acute and transient psychotic disorders, with associated acute stress"	other psychosis
+EMISQPA1	Paranoid	other psychosis
+EMISICD10|F2018	"Hebephrenic schizophrenia, other"	schizophrenia
+EMISICD10|F2035	"Undifferentiated schizophrenia, complete remission"	schizophrenia
+EMISICD10|F2041	"Post-schizophrenic depression, episodic with progressive deficit"	schizophrenia
+EMISICD10|F2054	"Residual schizophrenia, incomplete remission"	schizophrenia
+EMISICD10|F2065	"Simple schizophrenia, complete remission"	schizophrenia
+EMISICD10|F2098	"Schizophrenia, unspecified, other"	schizophrenia
