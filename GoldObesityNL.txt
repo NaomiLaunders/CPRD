@@ -1,0 +1,56 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+108147	81	176	0	0	8T11.00	Referral to multidisciplinary obesity clinic	June 2014
+38799	757	2	0	0	C380000	Obesity due to excess calories	February 2009
+59780	2913	109	0	0	222A.00	O/E - obese	February 2009
+17477	544	31	0	0	ZV65319	[V]Dietary counselling in obesity	February 2009
+102514	8	0	0	0	66CN.00	Risk health associated overweight and obesity, at high risk	June 2011
+110415	2	1	0	0	66CX.00	Obesity multidisciplinary case review	December 2015
+52034	2076	1	0	0	9OK1.00	Attends obesity monitoring	February 2009
+70950	171	0	0	0	9OK7.00	Obesity monitoring verbal inv.	February 2009
+49409	2199	5	0	0	9OK4.00	Obesity monitoring 1st letter	February 2009
+104421	2	0	0	0	C380700	Lifelong obesity	June 2012
+17444	67	73	0	0	66CE.00	Reason for obesity therapy - occupational	February 2009
+66406	353	0	0	0	C38..00	Obesity and other hyperalimentation	February 2009
+22695	1864	6	0	0	C380400	Central obesity	February 2009
+11461	157596	858	0	0	66C..00	Obesity monitoring	February 2009
+69757	15	1	0	0	Cyu7000	[X]Other obesity	February 2009
+22556	45692	270	0	0	22K7.00	Body mass index 40+ - severely obese	February 2009
+106010	190	1	0	0	66CP.00	Risk health associ overweight and obesity, at very high risk	April 2013
+102150	22	1	0	0	66CM.00	Risk health associ overweight and obesity, at increased risk	April 2011
+108610	978	0	0	0	22KD.00	Obese class II (body mass index 35.0 - 39.9)	September 2014
+29538	9956	3	0	0	66C2.00	Follow-up obesity assessment	February 2009
+38632	1492	0	0	0	66C6.00	Treatment of obesity started	February 2009
+25968	221	2	0	0	C380500	Generalised obesity	February 2009
+52782	1	0	0	0	Cyu7.00	[X]Obesity and other hyperalimentation	February 2009
+103574	468	2	0	0	C38y011	Obesity hypoventilation syndrome	January 2012
+3176	9009	1049	4	0	66C4.00	Has seen dietician - obesity	February 2009
+10728	1514	101	0	0	ZC2CM00	Dietary advice for obesity	February 2009
+52703	171	1	0	0	212Q.00	Obesity resolved	February 2009
+104887	165	0	0	0	66CS.00	Inter risk hlth overwght obesity adv diet phys act cons drug	August 2012
+110196	10	0	0	0	66Ce.00	Telehealth obesity monitoring	October 2015
+13278	301949	783	15	0	22K5.00	Body mass index 30+ - obesity	February 2009
+38059	265	3	0	0	C380200	Extreme obesity with alveolar hypoventilation	February 2009
+7984	25387	799	1	0	22A5.11	O/E - obese	February 2009
+52735	1586	1	0	0	9OKZ.00	Obesity monitoring admin.NOS	February 2009
+47439	8801	5	0	0	9OKA.00	Obesity monitoring check done	February 2009
+11401	1125	26	0	0	C38z000	Simple obesity NOS	February 2009
+64712	52	0	0	0	66C5.00	Treatment of obesity changed	February 2009
+38658	6270	9	0	0	66C1.00	Initial obesity assessment	February 2009
+55586	111	0	0	0	9OK5.00	Obesity monitoring 2nd letter	February 2009
+430	500107	24961	123	0	C380.00	Obesity	February 2009
+108355	9	0	0	0	8CV7.00	Anti-obesity drug therapy commenced	July 2014
+32843	1102	32	0	0	9OK..00	Obesity monitoring admin.	February 2009
+67517	133	0	0	0	9OK8.00	Obesity monitor phone invite	February 2009
+108694	1067	0	0	0	22KC.00	Obese class I (body mass index 30.0 - 34.9)	October 2014
+8854	13891	684	0	0	C380300	Morbid obesity	February 2009
+67516	302	0	0	0	9OK2.00	Refuses obesity monitoring	February 2009
+49250	33	0	0	0	C380100	Drug-induced obesity	February 2009
+104129	0	0	0	0	C380600	Adult-onset obesity	May 2012
+27570	350	1	0	0	66C7.00	Treatment of obesity stopped	February 2009
+73304	27	0	0	0	9OK9.00	Obesity monitoring deleted	February 2009
+52036	211	0	0	0	9OK3.00	Obesity monitoring default	February 2009
+55585	34	0	0	0	9OK6.00	Obesity monitoring 3rd letter	February 2009
+40153	4254	15	0	0	66CZ.00	Obesity monitoring NOS	February 2009
+16196	4750	174	2	0	1444.00	H/O: obesity	February 2009
+70898	7	0	0	0	C38z.00	Obesity and other hyperalimentation NOS	February 2009
+108478	525	0	0	0	22KE.00	Obese class III (BMI equal to or greater than 40.0)	August 2014

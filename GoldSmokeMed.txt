@@ -1,0 +1,163 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	Smoking status
+34127	36196	31	0	0	13p1.00	Smoking status at 4 weeks	Quitting
+34374	5836	6	0	0	13p2.00	Smoking status between 4 and 52 weeks	Quitting
+41405	1040	0	0	0	13p3.00	Smoking status at 52 weeks	Quitting
+10898	12275	0	23	0	13p4.00	Smoking free weeks	Quitting
+103208	68	0	0	0	13p7.00	Smoking status at 12 weeks	Quitting
+12958	112226	12	0	0	1372.00	Trivial smoker - < 1 cig/day	Current
+12941	160239	6	0	0	1372.11	Occasional smoker	Current
+12944	548706	45	3	0	1373.00	Light smoker - 1-9 cigs/day	Current
+1878	818526	120	12	0	1374.00	Moderate smoker - 10-19 cigs/d	Current
+3568	418854	187	8	0	1375.00	Heavy smoker - 20-39 cigs/day	Current
+1822	40119	32	1	0	1376.00	Very heavy smoker - 40+cigs/d	Current
+2111	3239195	2006	50	0	6791	Health ed. - smoking	Current
+54	3026471	80	435	0	137..00	Tobacco consumption	Current
+12942	57764	35	0	0	137..11	Smoker - amount smoked	Current
+12967	9634	0	2	0	137a.00	Pipe tobacco consumption	Current
+31114	17879	22	0	0	137b.00	Ready to stop smoking	Quitting
+12964	13187	11	0	0	137C.00	Keeps trying to stop smoking	Quitting
+30423	20119	5	0	0	137c.00	Thinking about stopping smoking	Quitting
+30762	30819	0	0	0	137d.00	Not interested in stopping smoking	Current
+41979	1297	0	0	0	137e.00	Smoking restarted	Current
+46321	237	0	0	0	137f.00	Reason for restarting smoking	Current
+12240	222163	1455	1	0	137G.00	Trying to give up smoking	Quitting
+46300	11040	0	0	0	137g.00	Cigarette pack-years	Current
+12947	70413	4	0	0	137H.00	Pipe smoker	Current
+62686	8069	0	0	0	137h.00	Minutes from waking to first tobacco consumption	Current
+12943	73642	11	0	0	137J.00	Cigar smoker	Current
+101338	2299	0	0	0	137m.00	Failed attempt to stop smoking	Current
+12945	112603	6	1	0	137M.00	Rolls own cigarettes	Current
+105501	69	0	0	0	137o.00	Waterpipe tobacco consumption	Current
+93	7854772	1137	186	0	137P.00	Cigarette smoker	Current
+1823	382813	635	4	0	137P.11	Smoker	Current
+12952	9999	10	0	0	137Q.00	Smoking started	Current
+12951	9272	2	0	0	137Q.11	Smoking restarted	Current
+10558	1666168	427	33	0	137R.00	Current smoker	Current
+12966	6153	1	0	0	137V.00	Smoking reduced	Current
+12965	20363	1	0	0	137X.00	Cigarette consumption	Current
+12963	6853	0	0	0	137Y.00	Cigar consumption	Current
+12960	22753	0	0	0	137Z.00	Tobacco consumption NOS	Current
+10211	145692	145	0	0	13p..00	Smoking cessation milestones	Quitting
+34126	78588	50	0	0	13p0.00	Negotiated date for cessation of smoking	Quitting
+38112	32652	3	0	0	13p5.00	Smoking cessation programme start date	Quitting
+101764	4095	0	0	0	13p5000	Practice based smoking cessation programme start date	Quitting
+102951	211	0	0	0	13p8.00	Lost to smoking cessation follow-up	Quitting
+107292	3813	0	1	0	1PC..00	User of electronic cigarette	Quitting
+97643	350	0	0	0	38DH.00	Fagerstrom test for nicotine dependence	Current
+10184	3971	18	0	0	67A3.00	Pregnancy smoking advice	Current
+18926	52598	8	0	0	67H1.00	Lifestyle advice regarding smoking	Current
+98137	19162	5	0	0	67H6.00	Brief intervention for smoking cessation	Quitting
+74907	96616	179	1312	0	745H.00	Smoking cessation therapy	Quitting
+81440	13370	0	0	0	745H000	Nicotine replacement therapy using nicotine patches	Quitting
+85975	1443	2	0	0	745H100	Nicotine replacement therapy using nicotine gum	Quitting
+85247	3470	0	0	0	745H200	Nicotine replacement therapy using nicotine inhalator	Quitting
+89464	1267	0	0	0	745H300	Nicotine replacement therapy using nicotine lozenges	Quitting
+94958	12093	0	0	0	745H400	Smoking cessation drug therapy	Quitting
+91708	2454	0	0	0	745Hy00	Other specified smoking cessation therapy	Quitting
+90522	7176	1	0	0	745Hz00	Smoking cessation therapy NOS	Quitting
+9833	79731	16	0	0	8B2B.00	Nicotine replacement therapy	Quitting
+109716	6	0	0	0	8B2B000	Issue of nicotine replacement therapy voucher	Quitting
+110692	59	0	0	0	8B31G00	Varenicline smoking cessation therapy offered	Quitting
+25106	12321	0	0	0	8B3f.00	Nicotine replacement therapy provided free	Quitting
+32572	3654	0	0	0	8B3Y.00	Over the counter nicotine replacement therapy	Quitting
+67178	443	0	0	0	8BP3.00	Nicotine replacement therapy provided by community pharmacis	Quitting
+41042	1472	19	0	0	8CAg.00	Smoking cessation advice provided by community pharmacist	Current
+7622	8871884	11682	14	0	8CAL.00	Smoking cessation advice	Current
+103507	6083	52	0	0	8CdB.00	Stop smoking service opportunity signposted	Current
+18573	179282	18598	17	0	8H7i.00	Referral to smoking cessation advisor	Quitting
+98245	1633	9	0	0	8HBM.00	Stop smoking face to face follow-up	Quitting
+105710	181	0	0	0	8HBP.00	Smoking cessation 12 week follow-up	Quitting
+98154	31768	3297	0	0	8HkQ.00	Referral to NHS stop smoking service	Quitting
+10742	80823	22658	0	0	8HTK.00	Referral to stop-smoking clinic	Quitting
+66409	50	0	0	0	8I2I.00	Nicotine replacement therapy contraindicated	Quitting
+24529	1240	2	0	0	8I39.00	Nicotine replacement therapy refused	Quitting
+100099	79714	4259	0	0	8IAj.00	Smoking cessation advice declined	Current
+104230	28116	0	0	0	8IEK.00	Smoking cessation programme declined	Current
+104185	60077	1	0	0	8IEM.00	Smoking cessation drug therapy declined	Current
+106391	10303	7	0	0	8IEo.00	Referral to smoking cessation service declined	Current
+106359	7346	162	0	0	8T08.00	Referral to smoking cessation service	Quitting
+96992	2031	9	0	0	9kc..00	Smoking cessation - enhanced services administration	Quitting
+98493	184	0	0	0	9kc0.00	Smoking cessatn monitor template complet - enhanc serv admin	Quitting
+108966	2	0	0	0	9kc0.11	Smoking cessation ESA monitoring template completed	Quitting
+98284	74	0	0	0	9kf1.00	Refer COPD structured smoking assessment - enhanc serv admin	Current
+103400	6	0	0	0	9kf1.11	Referred for COPD structured smoking assessment	Current
+98347	183	0	0	0	9ko..00	Current smoker annual review - enhanced services admin	Current
+104310	4209	0	0	0	9ko..11	Current smoker annual review	Current
+11356	283342	18	6	0	9N2k.00	Seen by smoking cessation advisor	Quitting
+11527	33913	1	0	0	9N4M.00	DNA - Did not attend smoking cessation clinic	Current
+101385	1305	0	0	0	9Ndf.00	Consent given for follow-up by smoking cessation team	Quitting
+101851	4609	0	3	0	9Ndg.00	Declined consent for follow-up by smoking cessation team	Quitting
+101634	23	0	0	0	9NdV.00	Consent given follow-up after smoking cessation intervention	Quitting
+101210	578	0	0	0	9NdW.00	Consent given for smoking cessation data sharing	Quitting
+101325	303	0	0	0	9NdY.00	Declin cons follow-up evaluation after smoking cess interven	Quitting
+101854	73	0	0	0	9NdZ.00	Declined consent for smoking cessation data sharing	Quitting
+102361	8730	28	0	0	9NS0200	Referral for smoking cessation service offered	Quitting
+28834	29882	55	0	0	9OO..00	Anti-smoking monitoring admin.	Quitting
+32083	9894	20	0	0	9OO..11	Stop smoking clinic admin.	Quitting
+7130	46184	73	8	0	9OO..12	Stop smoking monitoring admin.	Quitting
+12953	79079	81	2	0	9OO1.00	Attends stop smoking monitor.	Quitting
+40418	10484	3	4	0	9OO2.00	Refuses stop smoking monitor	Quitting
+40417	2361	0	0	0	9OO3.00	Stop smoking monitor default	Quitting
+42722	68370	93	0	0	9OO4.00	Stop smoking monitor 1st lettr	Quitting
+60720	8844	0	0	0	9OO5.00	Stop smoking monitor 2nd lettr	Quitting
+66387	3164	0	0	0	9OO6.00	Stop smoking monitor 3rd lettr	Quitting
+53101	2729	164	0	0	9OO7.00	Stop smoking monitor verb.inv.	Quitting
+58597	9846	1	0	0	9OO8.00	Stop smoking monitor phone inv	Quitting
+63901	38	0	0	0	9OO9.00	Stop smoking monitoring delete	Quitting
+19485	15817	2	0	0	9OOA.00	Stop smoking monitor.chck done	Quitting
+105572	1890	0	0	0	9OOB.00	Stop smoking invitation short message service text message	Quitting
+104086	2688	0	0	0	9OOB000	Stop smoking invitation first SMS text message	Quitting
+106384	259	0	0	0	9OOB100	Stop smoking invitation second SMS text message	Quitting
+106385	27	0	0	0	9OOB200	Stop smoking invitation third SMS text message	Quitting
+21637	15726	6	0	0	9OOZ.00	Stop smoking monitor admin.NOS	Quitting
+32687	5888	0	0	0	E251.00	Tobacco dependence	Current
+95610	16	0	0	0	E251000	"Tobacco dependence, unspecified"	Current
+70746	45	0	0	0	E251100	"Tobacco dependence, continuous"	Current
+108835	5	0	0	0	E251200	"Tobacco dependence, episodic"	Current
+68658	352	0	0	0	E251z00	Tobacco dependence NOS	Current
+61905	9	0	0	0	Eu17.00	[X]Mental and behavioural disorder due to use of tobacco	Current
+111853	1	0	0	0	Eu17000	[X]Mental & behav dis due to use tobacco: acute intoxication	Current
+56144	4	0	0	0	Eu17100	[X]Mental and behav dis due to use of tobacco: harmful use	Current
+107792	5	0	0	0	Eu17200	[X]Mental and behav dis due to use tobacco: dependence syndr	Current
+112529	1	0	0	0	Eu17500	[X]Mental & behav dis due to use tobacco: psychotic disorder	Current
+43433	41	0	0	0	SMC..00	Toxic effect of tobacco and nicotine	Current
+9045	8628	38	1	0	ZG23300	Advice on smoking	Current
+47273	25	0	0	0	ZRaM.00	Motives for smoking scale	Current
+107504	3	0	0	0	ZRaM.11	MFS - Motives for smoking scale	Current
+91513	3	0	0	0	ZRao.00	Occasions for smoking scale	Current
+63666	2900	0	0	0	ZRBm200	Fagerstrom test for nicotine dependence	Current
+63299	26	0	0	0	ZRBm211	FTND - Fagerstrom test for nicotine dependence	Current
+59866	8	0	0	0	ZRh4.00	Reasons for smoking scale	Current
+49418	5	0	0	0	ZRh4.11	RFS - Reasons for smoking scale	Current
+12954	151	1	0	0	ZV4K000	[V]Tobacco use	Current
+35055	50	0	0	0	ZV6D800	[V]Tobacco abuse counselling	Current
+105711	728	0	0	0	137n.00	Total time smoked	Current
+6359	2571	3	0	0	E023.00	Nicotine withdrawal	Quitting
+101519	2	0	0	0	Eu17300	[X]Mental and behav dis due to use tobacco: withdrawal state	Quitting
+16717	2862	64	0	0	H310100	Smokers' cough	Current
+72700	10	0	0	0	ZV11600	[V]Personal history of tobacco abuse	Ex
+12961	59816	3	0	0	1377.00	Ex-trivial smoker (<1/day)	Ex
+12957	204749	10	0	0	1378.00	Ex-light smoker (1-9/day)	Ex
+12955	318587	13	0	0	1379.00	Ex-moderate smoker (10-19/day)	Ex
+12956	169112	8	0	0	137A.00	Ex-heavy smoker (20-39/day)	Ex
+12959	36570	6	0	0	137B.00	Ex-very heavy smoker (40+/day)	Ex
+12946	338613	16	2	0	137F.00	Ex-smoker - amount unknown	Ex
+97210	9402	0	1	0	137j.00	Ex-cigarette smoker	Ex
+776	415224	132	1	0	137K.00	Stopped smoking	Ex
+99838	3555	0	0	0	137K000	Recently stopped smoking	Ex
+100495	598	0	0	0	137l.00	Ex roll-up cigarette smoker	Ex
+26470	10108	0	0	0	137N.00	Ex pipe smoker	Ex
+19488	6962	1	0	0	137O.00	Ex cigar smoker	Ex
+90	9932551	178	18	0	137S.00	Ex smoker	Ex
+12878	66417	20	0	0	137T.00	Date ceased smoking	Ex
+108503	20	0	0	0	1PD..00	Ex user of electronic cigarette	Ex
+98447	180	0	0	0	9km..00	Ex-smoker annual review - enhanced services administration	Ex
+100963	1301	0	0	0	9km..11	Ex-smoker annual review	Ex
+72706	160	0	0	0	E251300	Tobacco dependence in remission	Ex
+33	20502971	547	0	0	1371.00	Never smoked tobacco	Non 
+11788	961375	13	13	0	1371.11	Non-smoker	Non 
+60	3103964	517	24	0	137L.00	Current non-smoker	Non 
+52503	4045	0	0	0	13WK.00	No smokers in the household	Non 
+98177	10700	0	0	0	9kn..00	Non-smoker annual review - enhanced services administration	Non 
+101878	36	0	0	0	9kn..11	Non-smoker annual review	Non 
+28886					13p6.00	Carbon monoxide reading at 4 weeks	Quitting

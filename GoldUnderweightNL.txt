@@ -1,0 +1,8 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+12530	2848	137	0	0	R034800	[D]Underweight	February 2009
+29029	1239	0	0	0	22A2.00	O/E -weight 10-20% below ideal	February 2009
+126	13881	1715	7	0	22A6.00	O/E - Underweight	February 2009
+26473	583	0	0	0	22A1.00	O/E - weight > 20% below ideal	February 2009
+94788	50	4	0	0	8B5B.00	Weight gain diet	February 2009
+24496	20098	43	0	0	22K6.00	Body mass index less than 20	February 2009
+32914	31277	15	0	0	22K3.00	Body Mass Index low K/M2	February 2009

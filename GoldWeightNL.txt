@@ -1,0 +1,23 @@
+##Weight
+
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+42309	1228	0	0	0	22A7.00	Baseline weight	February 2009
+1581	214007	10782	12	0	162..00	Weight symptom	February 2009
+14764	2156	72	0	0	162Z.00	Weight symptom NOS	February 2009
+
+##Height
+41045	141084	0	0	0	229Z.00	O/E - height NOS	February 2009
+3	22288859	353	6	0	229..00	O/E - height	February 2009
+
+##Height and weight
+57111	7980	4	0	0	22Z..00	Height and Weight	February 2009
+
+##Could derive obesity
+105353	14	0	2	0	22a..00	Waist to height ratio	December 2012
+
+##BMI
+8105	3144013	1055	110	0	22K..00	Body Mass Index	February 2009
+105800	12	0	0	0	22KB.00	Baseline body mass index	February 2013
+
+
+

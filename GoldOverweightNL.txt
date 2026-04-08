@@ -1,0 +1,15 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+32974	29620	21	0	0	22A5.00	O/E - weight > 20% over ideal	February 2009
+6713	60910	523	0	0	8CA4011	Patient advised to lose weight	February 2009
+8304	17843	505	0	0	ZC2C711	Dietary advice for weight reduction	February 2009
+13078	8936	22	0	0	13AC.00	Diabetic weight reducing diet	February 2009
+103499	1224	63	0	0	22AA.00	Overweight	January 2012
+104724	1	1	0	0	66CL.00	Risk health associa overweight obesity, at no increased risk	August 2012
+12445	14204	29	0	0	ZG53100	Patient advised to lose weight	February 2009
+9015	139358	97	39	0	22K4.00	Body mass index index 25-29 - overweight	February 2009
+16404	47322	14	0	0	22A4.00	O/E - weight 10-20% over ideal	February 2009
+111344	4	0	0	0	66CF300	Target weight to achieve five percent weight loss	September 2016
+43375	194	2	0	0	ZC2CO00	Dietary advice for weight loss	February 2009
+2839	36008	2193	8	0	22A4.11	O/E - overweight	February 2009
+104724	1	1	0	0	66CL.00	Risk health associa overweight obesity, at no increased risk	August 2012
+28937	280136	11	0	0	22K2.00	Body Mass Index high K/M2	February 2009

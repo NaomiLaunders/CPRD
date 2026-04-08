@@ -1,0 +1,16 @@
+MedCodeId	Term	OriginalReadCode	CleansedReadCode	SnomedCTConceptId	SnomedCTDescriptionId	Release
+981731000006117	Overweight: adult BMI 25.0; child BMI 95th percentile; or more	EMISCOV1		981731000006101	981731000006117	
+253845014	Body mass index high K/M2	22K2	22K2.00	48499001	80800016	
+402435016	O/E - weight 10-20% over ideal	22A4	22A4.00	268915006	402435016	
+910251000006110	[RFC] Overweight	HNGNQRF70		910251000006106	910251000006110	
+982581000006118	Weight (Over)	EMISCWE5		982581000006102	982581000006118	
+1753321000006116	Intervention for risk to health associated with overweight and obesity, advice about diet and physical activity	66CR	66CR.00	756021000000103	1663521000000115	
+1753311000006112	Intervention for risk to health associated with overweight and obesity, general advice on healthy weight and lifestyle	66CQ	66CQ.00	756001000000107	1663481000000115	
+1753331000006118	Intervention for risk to health associated with overweight and obesity, advice about diet and physical activity, consider drugs	66CS	66CS.00	756041000000105	1663561000000111	
+1753271000006112	Risk to health associated with overweight and obesity, at no increased risk	66CL	66CL.00	755881000000104	1663231000000115	
+2370021000000115	Target weight to achieve ten percent weight loss	66CF4	66CF400	923901000000108	2370021000000115		
+217781000000116	O/E - weight > 20% over ideal	22A5	22A5.00	268916007	402436015	
+240911000006113	Patient advised to lose weight	8CA40-1	8CA4011	275919002	411892019	
+356960015	Overweight	22AA	22AA.00	238131007	356960015	
+253847018	Body mass index index 25-29 - overweight	22K4	22K4.00	162863004	253847018	
+411922013	O/E - overweight	22A4-1	22A4.11	275947003	411922013	

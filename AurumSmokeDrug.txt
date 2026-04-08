@@ -1,0 +1,103 @@
+ProdCodeId	DMDCode	TermfromEMIS	ProductName	drugsubstancename	substancestrength	formulation	routeofadministration	bnfcode	Release
+5401441000033115	16528011000001108	Nicorette combi 15mg transdermal patches + 2mg medicated gum (McNeil Products Ltd)	Nicorette combi 15mg transdermal patches + 2mg medicated gum			Not applicable			
+4213341000033116	11811611000001101	Nicopatch 7mg/24hours transdermal patches (Pierre Fabre Ltd)	Nicopatch 7mg/24hours transdermal patches	Nicotine	7.000mg/24.000hour	Transdermal patch	Transdermal		
+1745741000033113	323291005	Nicotine 7mg/24hours transdermal patches	Nicotine 7mg/24hours transdermal patches	Nicotine	7.000mg/24.000hour	Transdermal patch	Transdermal	4100200	4100200
+2724441000033116	3213011000001108	Boots NRT 7mg/24hours patches (The Boots Company Plc)	Boots NRT 7mg/24hours patches	Nicotine	7.000mg/24.000hour	Transdermal patch	Transdermal		
+1745441000033118	3214111000001106	NiQuitin 7mg patches (Omega Pharma Ltd)	NiQuitin 7mg patches	Nicotine	7.000mg/24.000hour	Transdermal patch	Transdermal	4100200	4100200
+973141000033117	3216011000001100	Nicotinell TTS 10 patches (GlaxoSmithKline Consumer Healthcare)	Nicotinell TTS 10 patches	Nicotine	7.000mg/24.000hour	Transdermal patch	Transdermal	4100200	4100200
+2729241000033116	3215211000001104	NiQuitin Clear 7mg patches (Omega Pharma Ltd)	NiQuitin Clear 7mg patches	Nicotine	7.000mg/24.000hour	Transdermal patch	Transdermal	4100200	4100200
+8232641000033114	21520411000001104	NiQuitin Pre-Quit Clear 21mg patches (Omega Pharma Ltd)	NiQuitin Pre-Quit Clear 21mg patches	Nicotine	21.000mg/24.000hour	Transdermal patch	Transdermal		
+973341000033119	662311000001108	Nicotinell TTS 30 patches (GlaxoSmithKline Consumer Healthcare)	Nicotinell TTS 30 patches	Nicotine	21.000mg/24.000hour	Transdermal patch	Transdermal	4100200	4100200
+2724241000033117	714711000001106	Boots Nicotine 21mg/24hours patches (The Boots Company Plc)	Boots Nicotine 21mg/24hours patches	Nicotine	21.000mg/24.000hour	Transdermal patch	Transdermal		
+1745341000033112	330811000001104	NiQuitin 21mg patches (Omega Pharma Ltd)	NiQuitin 21mg patches	Nicotine	21.000mg/24.000hour	Transdermal patch	Transdermal	4100200	4100200
+2729441000033115	88711000001104	NiQuitin Clear 21mg patches (Omega Pharma Ltd)	NiQuitin Clear 21mg patches	Nicotine	21.000mg/24.000hour	Transdermal patch	Transdermal	4100200	4100200
+1745641000033116	323293008	Nicotine 21mg/24hours transdermal patches	Nicotine 21mg/24hours transdermal patches	Nicotine	21.000mg/24.000hour	Transdermal patch	Transdermal	4100200	4100200
+4213541000033111	11812011000001100	Nicopatch 21mg/24hours transdermal patches (Pierre Fabre Ltd)	Nicopatch 21mg/24hours transdermal patches	Nicotine	21.000mg/24.000hour	Transdermal patch	Transdermal		
+1746041000033118	323298004	Nicotine 5mg/16hours transdermal patches	Nicotine 5mg/16hours transdermal patches	Nicotine	5.000mg/16.000hour	Transdermal patch	Transdermal	4100200	4100200
+978041000033110	3217711000001100	Nicorette 5mg patches (McNeil Products Ltd)	Nicorette 5mg patches	Nicotine	5.000mg/16.000hour	Transdermal patch	Transdermal	4100200	4100200
+4270541000033111	10143711000001104	Boots NicAssist 5mg patches (The Boots Company Plc)	Boots NicAssist 5mg patches	Nicotine	5.000mg/16.000hour	Transdermal patch	Transdermal	4100200	4100200
+972641000033119	457011000001103	Nicorette 500micrograms/dose nasal spray (McNeil Products Ltd)	Nicorette 500micrograms/dose nasal spray	Nicotine	500.000microgram/1.000actuation	Spray	Nasal	4100200	4100200
+2587141000033110	323319009	Nicotine 500micrograms/dose nasal spray	Nicotine 500micrograms/dose nasal spray	Nicotine	500.000microgram/1.000actuation	Spray	Nasal	4100200	4100200
+5073041000033111	3501611000001105	Nicotine 10mg inhalation cartridges with device	Nicotine 10mg inhalation cartridges with device	Nicotine	10.000mg	Inhalation vapour	Oromucosal	4100200	4100200
+5073141000033110	3208111000001103	Nicorette 10mg Inhalator (McNeil Products Ltd)	Nicorette 10mg Inhalator	Nicotine	10.000mg	Inhalation vapour	Oromucosal	4100200	4100200
+8056141000033112	21145711000001106	Nicorette Cools 2mg lozenges (McNeil Products Ltd)	Nicorette Cools 2mg lozenges	Nicotine	2.000mg	Lozenge	Oromucosal		
+12634441000033114	35721211000001108	Nicorette Fruit 2mg lozenges (McNeil Products Ltd)	Nicorette Fruit 2mg lozenges	Nicotine	2.000mg	Lozenge	Oromucosal		
+2653941000033119	3505611000001108	Nicotine 2mg lozenges sugar free	Nicotine 2mg lozenges sugar free	Nicotine	2.000mg	Lozenge	Oromucosal	4100200	4100200
+4575341000033119	2834711000001104	NiQuitin 2mg lozenges original menthol mint (Omega Pharma Ltd)	NiQuitin 2mg lozenges original menthol mint	Nicotine	2.000mg	Lozenge	Oromucosal	4100200	4100200
+2975141000033119	4990511000001109	NiQuitin Mint 2mg lozenges (Omega Pharma Ltd)	NiQuitin Mint 2mg lozenges	Nicotine	2.000mg	Lozenge	Oromucosal	4100200	4100200
+8056241000033117	21146211000001105	Nicorette Cools 4mg lozenges (McNeil Products Ltd)	Nicorette Cools 4mg lozenges	Nicotine	4.000mg	Lozenge	Oromucosal		
+4913541000033110	2834111000001100	NiQuitin 4mg lozenges original menthol mint (Omega Pharma Ltd)	NiQuitin 4mg lozenges original menthol mint	Nicotine	4.000mg	Lozenge	Oromucosal	4100200	4100200
+2654041000033117	3506011000001105	Nicotine 4mg lozenges sugar free	Nicotine 4mg lozenges sugar free	Nicotine	4.000mg	Lozenge	Oromucosal	4100200	4100200
+2975441000033110	4990811000001107	NiQuitin Mint 4mg lozenges (Omega Pharma Ltd)	NiQuitin Mint 4mg lozenges	Nicotine	4.000mg	Lozenge	Oromucosal	4100200	4100200
+4816941000033118	14752711000001102	NiQuitin Pre-Quit Mint 4mg lozenges (Omega Pharma Ltd)	NiQuitin Pre-Quit Mint 4mg lozenges	Nicotine	4.000mg	Lozenge	Oromucosal		
+5265541000033117	16237311000001103	NiQuitin Minis Mint 4mg lozenges (Omega Pharma Ltd)	NiQuitin Minis Mint 4mg lozenges	Nicotine	4.000mg	Lozenge	Oromucosal	4100200	4100200
+9693741000033118	26351211000001107	Nicotinell Support Icemint 2mg medicated chewing gum (GlaxoSmithKline Consumer Healthcare)	Nicotinell Support Icemint 2mg medicated chewing gum	Nicotine	2.000mg	Medicated chewing-gum	Oromucosal		
+6430541000033117	19370911000001100	Nicotinell Icemint 2mg medicated chewing gum (Novartis Consumer Health UK Ltd)	Nicotinell Icemint 2mg medicated chewing gum	Nicotine	2.000mg	Medicated chewing-gum	Oromucosal		
+12410241000033110	34863411000001106	NiQuitin Extra Fresh Mint 2mg medicated chewing gum (Omega Pharma Ltd)	NiQuitin Extra Fresh Mint 2mg medicated chewing gum	Nicotine	2.000mg	Medicated chewing-gum	Oromucosal		
+968641000033113	3559511000001102	Nicotine 2mg medicated chewing gum sugar free	Nicotine 2mg medicated chewing gum sugar free	Nicotine	2.000mg	Medicated chewing-gum	Oromucosal	4100200	4100200
+3907341000033114	3053411000001100	Nicotinell Mint 2mg medicated chewing gum (GlaxoSmithKline Consumer Healthcare)	Nicotinell Mint 2mg medicated chewing gum	Nicotine	2.000mg	Medicated chewing-gum	Oromucosal	4100200	4100200
+4186541000033117	3052211000001105	Nicorette Mint 2mg medicated chewing gum (McNeil Products Ltd)	Nicorette Mint 2mg medicated chewing gum	Nicotine	2.000mg	Medicated chewing-gum	Oromucosal	4100200	4100200
+3907541000033119	3054111000001107	Nicotinell Fruit 2mg medicated chewing gum (GlaxoSmithKline Consumer Healthcare)	Nicotinell Fruit 2mg medicated chewing gum	Nicotine	2.000mg	Medicated chewing-gum	Oromucosal	4100200	4100200
+5100141000033115	3054911000001105	Nicorette Original 2mg medicated chewing gum (McNeil Products Ltd)	Nicorette Original 2mg medicated chewing gum	Nicotine	2.000mg	Medicated chewing-gum	Oromucosal	4100200	4100200
+2795741000033119	3055311000001108	NiQuitin Fresh Mint 2mg medicated chewing gum (Omega Pharma Ltd)	NiQuitin Fresh Mint 2mg medicated chewing gum	Nicotine	2.000mg	Medicated chewing-gum	Oromucosal	4100200	4100200
+3907741000033110	5181211000001109	Nicotinell Liquorice 2mg medicated chewing gum (GlaxoSmithKline Consumer Healthcare)	Nicotinell Liquorice 2mg medicated chewing gum	Nicotine	2.000mg	Medicated chewing-gum	Oromucosal	4100200	4100200
+3951741000033112	8148611000001100	Nicorette Freshmint 2mg medicated chewing gum (McNeil Products Ltd)	Nicorette Freshmint 2mg medicated chewing gum	Nicotine	2.000mg	Medicated chewing-gum	Oromucosal	4100200	4100200
+3907941000033113	9178211000001104	Nicotinell Classic 2mg medicated chewing gum (Novartis Consumer Health UK Ltd)	Nicotinell Classic 2mg medicated chewing gum	Nicotine	2.000mg	Medicated chewing-gum	Oromucosal	4100200	4100200
+4958041000033117	15244211000001102	Nicorette Icy White 2mg medicated chewing gum (McNeil Products Ltd)	Nicorette Icy White 2mg medicated chewing gum	Nicotine	2.000mg	Medicated chewing-gum	Oromucosal	4100200	4100200
+9599141000033110	11548311000001106	Nicorette Fruitfusion 2mg medicated chewing gum (McNeil Products Ltd)	Nicorette Fruitfusion 2mg medicated chewing gum	Nicotine	2.000mg	Medicated chewing-gum	Oromucosal	4100200	4100200
+6426941000033111	19370611000001106	Nicotinell Icemint 4mg medicated chewing gum (Novartis Consumer Health UK Ltd)	Nicotinell Icemint 4mg medicated chewing gum	Nicotine	4.000mg	Medicated chewing-gum	Oromucosal		
+9693841000033111	26351611000001109	Nicotinell Support Icemint 4mg medicated chewing gum (GlaxoSmithKline Consumer Healthcare)	Nicotinell Support Icemint 4mg medicated chewing gum	Nicotine	4.000mg	Medicated chewing-gum	Oromucosal		
+12410341000033117	34864011000001100	NiQuitin Extra Fresh Mint 4mg medicated chewing gum (Omega Pharma Ltd)	NiQuitin Extra Fresh Mint 4mg medicated chewing gum	Nicotine	4.000mg	Medicated chewing-gum	Oromucosal		
+9603241000033114	11548611000001101	Nicorette Fruitfusion 4mg medicated chewing gum (McNeil Products Ltd)	Nicorette Fruitfusion 4mg medicated chewing gum	Nicotine	4.000mg	Medicated chewing-gum	Oromucosal	4100200	4100200
+4958141000033118	15244511000001104	Nicorette Icy White 4mg medicated chewing gum (McNeil Products Ltd)	Nicorette Icy White 4mg medicated chewing gum	Nicotine	4.000mg	Medicated chewing-gum	Oromucosal	4100200	4100200
+3908041000033111	9178511000001101	Nicotinell Classic 4mg medicated chewing gum (Novartis Consumer Health UK Ltd)	Nicotinell Classic 4mg medicated chewing gum	Nicotine	4.000mg	Medicated chewing-gum	Oromucosal	4100200	4100200
+3951841000033119	8148911000001106	Nicorette Freshmint 4mg medicated chewing gum (McNeil Products Ltd)	Nicorette Freshmint 4mg medicated chewing gum	Nicotine	4.000mg	Medicated chewing-gum	Oromucosal	4100200	4100200
+3907841000033117	5181511000001107	Nicotinell Liquorice 4mg medicated chewing gum (GlaxoSmithKline Consumer Healthcare)	Nicotinell Liquorice 4mg medicated chewing gum	Nicotine	4.000mg	Medicated chewing-gum	Oromucosal	4100200	4100200
+3907641000033118	3062511000001104	Nicotinell Fruit 4mg medicated chewing gum (GlaxoSmithKline Consumer Healthcare)	Nicotinell Fruit 4mg medicated chewing gum	Nicotine	4.000mg	Medicated chewing-gum	Oromucosal	4100200	4100200
+3907441000033115	3063211000001108	Nicotinell Mint 4mg medicated chewing gum (GlaxoSmithKline Consumer Healthcare)	Nicotinell Mint 4mg medicated chewing gum	Nicotine	4.000mg	Medicated chewing-gum	Oromucosal	4100200	4100200
+4186641000033116	3064011000001101	Nicorette Mint 4mg medicated chewing gum (McNeil Products Ltd)	Nicorette Mint 4mg medicated chewing gum	Nicotine	4.000mg	Medicated chewing-gum	Oromucosal	4100200	4100200
+5100241000033110	3065411000001106	Nicorette Original 4mg medicated chewing gum (McNeil Products Ltd)	Nicorette Original 4mg medicated chewing gum	Nicotine	4.000mg	Medicated chewing-gum	Oromucosal	4100200	4100200
+2795541000033110	3065811000001108	NiQuitin Fresh Mint 4mg medicated chewing gum (Omega Pharma Ltd)	NiQuitin Fresh Mint 4mg medicated chewing gum	Nicotine	4.000mg	Medicated chewing-gum	Oromucosal	4100200	4100200
+968741000033116	3559611000001103	Nicotine 4mg medicated chewing gum sugar free	Nicotine 4mg medicated chewing gum sugar free	Nicotine	4.000mg	Medicated chewing-gum	Oromucosal	4100200	4100200
+8614641000033113	23072811000001107	NiQuitin Minis Orange 1.5mg lozenges (Omega Pharma Ltd)	NiQuitin Minis Orange 1.5mg lozenges	Nicotine	1.500mg	Lozenge	Oromucosal		
+4958241000033113	13113011000001109	Nicotine 1.5mg lozenges sugar free	Nicotine 1.5mg lozenges sugar free	Nicotine	1.500mg	Lozenge	Oromucosal	4100200	4100200
+4419441000033114	13104011000001109	Nicopass 1.5mg Liquorice Mint lozenges (Pierre Fabre Ltd)	Nicopass 1.5mg Liquorice Mint lozenges	Nicotine	1.500mg	Lozenge	Oromucosal		
+4419541000033110	13105311000001106	Nicopass 1.5mg Fresh Mint lozenges (Pierre Fabre Ltd)	Nicopass 1.5mg Fresh Mint lozenges	Nicotine	1.500mg	Lozenge	Oromucosal		
+6036941000033117	18244311000001102	NiQuitin Minis Cherry 1.5mg lozenges (Omega Pharma Ltd)	NiQuitin Minis Cherry 1.5mg lozenges	Nicotine	1.500mg	Lozenge	Oromucosal	4100200	4100200
+5265441000033118	16250511000001109	NiQuitin Minis Mint 1.5mg lozenges (Omega Pharma Ltd)	NiQuitin Minis Mint 1.5mg lozenges	Nicotine	1.500mg	Lozenge	Oromucosal	4100200	4100200
+4817541000033110	14984411000001104	Nicotine 25mg/16hours transdermal patches	Nicotine 25mg/16hours transdermal patches	Nicotine	25.000mg/16.000hour	Transdermal patch	Transdermal	4100200	4100200
+4818041000033118	14979811000001107	Nicorette invisi 25mg/16hours patches (McNeil Products Ltd)	Nicorette invisi 25mg/16hours patches	Nicotine	25.000mg/16.000hour	Transdermal patch	Transdermal	4100200	4100200
+12591841000033113	35599911000001105	Nicorette QuickMist 1mg/dose mouthspray cool berry (McNeil Products Ltd)	Nicorette QuickMist 1mg/dose mouthspray cool berry	Nicotine	1.000mg/1.000actuation	Spray	Oromucosal		
+6117741000033118	18561411000001109	Nicorette QuickMist 1mg/dose mouthspray freshmint (McNeil Products Ltd)	Nicorette QuickMist 1mg/dose mouthspray freshmint	Nicotine	1.000mg/1.000actuation	Spray	Oromucosal	4100200	4100200
+6117641000033110	18562311000001106	Nicotine 1mg/dose oromucosal spray sugar free	Nicotine 1mg/dose oromucosal spray sugar free	Nicotine	1.000mg/1.000actuation	Spray	Oromucosal	4100200	4100200
+6440641000033117	19482211000001108	Nicotine 15mg inhalation cartridges with device	Nicotine 15mg inhalation cartridges with device	Nicotine	15.000mg	Inhalation vapour	Oromucosal		
+6440541000033118	19475011000001104	Nicorette 15mg Inhalator (McNeil Products Ltd)	Nicorette 15mg Inhalator	Nicotine	15.000mg	Inhalation vapour	Oromucosal		
+8561241000033118	22787211000001107	Nicotine 2.5mg orodispersible films sugar free	Nicotine 2.5mg orodispersible films sugar free	Nicotine	2.500mg	Orodispersible film	Oral		
+8561341000033111	22735911000001103	NiQuitin Strips Mint 2.5mg oral films (Omega Pharma Ltd)	NiQuitin Strips Mint 2.5mg oral films	Nicotine	2.500mg	Orodispersible film	Oral		
+10645741000033112	30223311000001102	Nicorette Fruitfusion 6mg medicated chewing gum (McNeil Products Ltd)	Nicorette Fruitfusion 6mg medicated chewing gum	Nicotine	6.000mg	Medicated chewing-gum	Oromucosal		
+10645641000033115	30781011000001101	Nicotine 6mg medicated chewing gum sugar free	Nicotine 6mg medicated chewing gum sugar free	Nicotine	6.000mg	Medicated chewing-gum	Oromucosal		
+1745841000033115	36563611000001102	Nicotine 10mg/16hours transdermal patches	Nicotine 10mg/16hours transdermal patches	Nicotine	10.000mg/16.000hour	Transdermal patch	Transdermal	4100200	4100200
+977841000033116	3229811000001105	Nicorette 10mg patches (McNeil Products Ltd)	Nicorette 10mg patches	Nicotine	10.000mg/16.000hour	Transdermal patch	Transdermal	4100200	4100200
+4270341000033116	10143911000001102	Boots NicAssist 10mg patches (The Boots Company Plc)	Boots NicAssist 10mg patches	Nicotine	10.000mg/16.000hour	Transdermal patch	Transdermal	4100200	4100200
+4817841000033112	14979111000001100	Nicorette invisi 10mg/16hours patches (McNeil Products Ltd)	Nicorette invisi 10mg/16hours patches	Nicotine	10.000mg/16.000hour	Transdermal patch	Transdermal	4100200	4100200
+1745541000033117	36565311000001108	Nicotine 14mg/24hours transdermal patches	Nicotine 14mg/24hours transdermal patches	Nicotine	14.000mg/24.000hour	Transdermal patch	Transdermal	4100200	4100200
+2724341000033110	868611000001109	Boots Nicotine 14mg/24hours patches (The Boots Company Plc)	Boots Nicotine 14mg/24hours patches	Nicotine	14.000mg/24.000hour	Transdermal patch	Transdermal		
+973241000033112	768511000001107	Nicotinell TTS 20 patches (GlaxoSmithKline Consumer Healthcare)	Nicotinell TTS 20 patches	Nicotine	14.000mg/24.000hour	Transdermal patch	Transdermal	4100200	4100200
+2729341000033114	441911000001109	NiQuitin Clear 14mg patches (Omega Pharma Ltd)	NiQuitin Clear 14mg patches	Nicotine	14.000mg/24.000hour	Transdermal patch	Transdermal	4100200	4100200
+1745241000033119	352511000001102	NiQuitin 14mg patches (Omega Pharma Ltd)	NiQuitin 14mg patches	Nicotine	14.000mg/24.000hour	Transdermal patch	Transdermal	4100200	4100200
+4213441000033110	11811811000001102	Nicopatch 14mg/24hours transdermal patches (Pierre Fabre Ltd)	Nicopatch 14mg/24hours transdermal patches	Nicotine	14.000mg/24.000hour	Transdermal patch	Transdermal		
+1745941000033111	36566311000001103	Nicotine 15mg/16hours transdermal patches	Nicotine 15mg/16hours transdermal patches	Nicotine	15.000mg/16.000hour	Transdermal patch	Transdermal	4100200	4100200
+977941000033112	3230611000001103	Nicorette 15mg patches (McNeil Products Ltd)	Nicorette 15mg patches	Nicotine	15.000mg/16.000hour	Transdermal patch	Transdermal	4100200	4100200
+4270441000033110	10144111000001103	Boots NicAssist 15mg patches (The Boots Company Plc)	Boots NicAssist 15mg patches	Nicotine	15.000mg/16.000hour	Transdermal patch	Transdermal	4100200	4100200
+4817941000033116	14979311000001103	Nicorette invisi 15mg/16hours patches (McNeil Products Ltd)	Nicorette invisi 15mg/16hours patches	Nicotine	15.000mg/16.000hour	Transdermal patch	Transdermal	4100200	4100200
+5895441000033110	3559411000001101	Nicotine bitartrate 1mg lozenges sugar free	Nicotine bitartrate 1mg lozenges sugar free	Nicotine bitartrate	1.000mg	Lozenge	Oromucosal	4100200	4100200
+2280641000033113	2835311000001104	Nicotinell 1mg lozenges (GlaxoSmithKline Consumer Healthcare)	Nicotinell 1mg lozenges	Nicotine bitartrate	1.000mg	Lozenge	Oromucosal	4100200	4100200
+4188441000033119	5612711000001105	Nicotinell 2mg lozenges (GlaxoSmithKline Consumer Healthcare)	Nicotinell 2mg lozenges	Nicotine bitartrate	2.000mg	Lozenge	Oromucosal	4100200	4100200
+5895541000033111	5623211000001100	Nicotine bitartrate 2mg lozenges sugar free	Nicotine bitartrate 2mg lozenges sugar free	Nicotine bitartrate	2.000mg	Lozenge	Oromucosal	4100200	4100200
+6117841000033111	18549811000001104	Nicorette Freshmint 2mg lozenges (McNeil Products Ltd)	Nicorette Freshmint 2mg lozenges	Nicotine bitartrate	2.000mg	Lozenge	Oromucosal		
+2003641000033114	323332004	Nicotine 2mg sublingual tablets sugar free	Nicotine 2mg sublingual tablets sugar free	Nicotine cyclodextrin complex	2.000mg	Sublingual tablet	Sublingual	4100200	4100200
+2003541000033113	2833611000001105	Nicorette Microtab 2mg sublingual tablets (McNeil Products Ltd)	Nicorette Microtab 2mg sublingual tablets	Nicotine cyclodextrin complex	2.000mg	Sublingual tablet	Sublingual	4100200	4100200
+3996741000033111	420608002	Varenicline 500microgram tablets	Varenicline 500microgram tablets	Varenicline tartrate	500.000microgram	Tablet	Oral	4100200	4100200
+3996941000033114	10971311000001100	Champix 0.5mg tablets (Pfizer Ltd)	Champix 0.5mg tablets	Varenicline tartrate	500.000microgram	Tablet	Oral	4100200	4100200
+3997041000033110	10971611000001105	Champix 1mg tablets (Pfizer Ltd)	Champix 1mg tablets	Varenicline tartrate	1.000mg	Tablet	Oral	4100200	4100200
+3996841000033118	421941008	Varenicline 1mg tablets	Varenicline 1mg tablets	Varenicline tartrate	1.000mg	Tablet	Oral	4100200	4100200

@@ -1,0 +1,293 @@
+MedCodeId	Term	Smoking status	OriginalReadCode	CleansedReadCode	SnomedCTConceptId	SnomedCTDescriptionId
+461114016	[V]Tobacco abuse counselling	Current	ZV6D8	ZV6D800	711028002	3047058010
+460828018	[V]Tobacco use	Current	ZV4K0	ZV4K000	110483000	175325014
+397671000006112	[X]Mental & behav dis due to use tobacco: acute intoxication	Current	Eu170	Eu17000	30310000	50736017
+397681000006110	[X]Mental & behav dis due to use tobacco: psychotic disorder	Current	Eu175	Eu17500	30310000	50736017
+397911000006114	[X]Mental and behav dis due to use of tobacco: harmful use	Current	Eu171	Eu17100	724697004	3445165019
+397981000006119	[X]Mental and behav dis due to use tobacco: dependence syndr	Current	Eu172	Eu17200	30310000	50736017
+295951010	[X]Mental and behavioural disorder due to use of tobacco	Current	Eu17	Eu17.00	30310000	50736017
+344794017	Cigar consumption	Current	137Y	137Y.00	230057008	344794017
+99639019	Cigar smoker	Current	137J	137J.00	59978006	99639019
+344793011	Cigarette consumption	Current	137X	137X.00	230056004	344793011
+1780396011	Cigarette pack-years	Current	137g	137g.00	401201003	1780396011
+108938018	Cigarette smoker	Current	137P	137P.00	65568007	108938018
+854021000006115	Cigarette smoker	Current	EGTON321		8.54021E+14	8.54021E+14
+503483019	Current smoker	Current	137R	137R.00	77176002	503483019
+854071000006119	Current smoker	Current	EGTON326		8.54071E+14	8.54071E+14
+1152111000000118	Current smoker annual review	Current	9ko-1	9ko..11	5.05651E+14	1.15211E+15
+1714541000006110	Current smoker annual review - enhanced services admin	Current	9ko	9ko..00	5.05651E+14	1.15211E+15
+62881000000117	DNA - Did not attend smoking cessation clinic	Current	9N4M	9N4M.00	2.5261E+13	6.2881E+13
+1672841000006118	Fagerstrom test for nicotine dependence	Current	EMISNQFA10		1.67284E+15	1.67284E+15
+408878014	Fagerstrom test for nicotine dependence	Current	38DH	38DH.00	762991003	3637499017
+1592611000000110	Failed attempt to stop smoking	Current	137m	137m.00	446172000	2882460017
+818061000006111	Health ed. - smoking	Current	6791	6791.00	225323000	2575784012
+923611000006113	Health ed. - smoking	Current	PC0076		9.23611E+14	9.23611E+14
+819331000006110	Heavy smoker - 20-39 cigs/day	Current	1375	1375.00	160605003	250360018
+936011000006114	Lifestyle advice regarding smoking	Current	67H1	67H1.00	225324006	338609015
+743331000006116	Light smoker - 1-9 cigs/day	Current	1373	1373.00	160603005	250358015
+2474719011	Minutes from waking to first tobacco consumption	Current	137h	137h.00	413173009	2474719011
+700121000006118	Moderate smoker - 10-19 cigs/d	Current	1374	1374.00	160604004	250359011
+1488578010	Not interested in stopping smoking	Current	137d	137d.00	394873005	1488578010
+903981000006117	Not interested in stopping smoking	Current	EMISQNO1		9.03981E+14	9.03981E+14
+397733018	Occasional smoker	Current	1372-1	1372.11	4.28041E+14	2.71716E+15
+136515019	Pipe smoker	Current	137H	137H.00	82302008	136515019
+344795016	Pipe tobacco consumption	Current	137a	137a.00	230058003	344795016
+265092010	Pregnancy smoking advice	Current	67A3	67A3.00	171055003	265092010
+923201000006112	Pregnancy smoking advice	Current	PCNQPR2		9.23201E+14	9.23201E+14
+1780360012	Reason for restarting smoking	Current	137f	137f.00	401159003	1780360012
+1704561000006112	Refer COPD structured smoking assessment - enhanc serv admin	Current	9kf1	9kf1.00	3.75851E+14	7.39301E+14
+2251871000000112	Referral to smoking cessation service declined	Current	8IEo	8IEo.00	8.71641E+14	2.25187E+15
+1704551000006110	Referred for COPD structured smoking assessment	Current	9kf1-1	9kf1.11	3.75851E+14	7.39301E+14
+250375014	Rolls own cigarettes	Current	137M	137M.00	160619003	250375014
+852981000006111	Rolls own cigarettes	Current	EGTON1024		8.52981E+14	8.52981E+14
+128130017	Smoker	Current	137P-1	137P.11	77176002	128130017
+137721000006115	Smoker - amount smoked	Current	137-1	137..11	266918002	397730015
+78013015	Smokers' cough	Current	H3101	H310100	46802002	78013015
+338608011	Smoking cessation advice	Current	8CAL	8CAL.00	225323000	338608011
+1176421000000118	Smoking cessation advice declined	Current	8IAj	8IAj.00	5.27151E+14	1.17642E+15
+303501000000115	Smoking cessation advice provided by community pharmacist	Current	8CAg	8CAg.00	2.00221E+14	3.03501E+14
+2141561000000115	Smoking cessation drug therapy declined	Current	8IEM	8IEM.00	8.22591E+14	2.14156E+15
+1175011000000112	Smoking cessation programme declined	Current	8IEK	8IEK.00	1.08744E+15	2.72418E+15
+216212011	Smoking reduced	Current	137V	137V.00	134406006	216212011
+2670126018	Smoking restarted	Current	137e	137e.00	308438006	2670126018
+137791000006118	Smoking restarted	Current	137Q-1	137Q.11	308438006	2670126018
+2669652019	Smoking started	Current	137Q	137Q.00	266929003	2669652019
+1750931000000118	Stop smoking service opportunity signposted	Current	8CdB	8CdB.00	7.83011E+14	1.75093E+15
+102921000006112	Tobacco consumption	Current	137	137..00	266918002	397730015
+250387019	Tobacco consumption NOS	Current	137Z	137Z.00	266918002	397730015
+102951000006115	Tobacco dependence	Current	E251	E251.00	89765005	2951656017
+295260011	Tobacco dependence NOS	Current	E251z	E251z00	89765005	2951656017
+295257016	"Tobacco dependence, continuous"	Current	E2511	E251100	191887008	295257016
+295258014	"Tobacco dependence, episodic"	Current	E2512	E251200	191888003	295258014
+295256013	"Tobacco dependence, unspecified"	Current	E2510	E251000	89765005	148820017
+342574011	Total time smoked	Current	137n	137n.00	228487000	342574011
+1809131000006111	Total time smoked	Current	EMISNQTO12		228487000	1.80913E+15
+324597019	Toxic effect of tobacco and nicotine	Current	SMC	SMC..00	212899006	324597019
+88471000006112	Trivial smoker - < 1 cig/day	Current	1372	1372.00	266920004	397735013
+67621000006112	Very heavy smoker - 40+cigs/d	Current	1376	1376.00	160606002	250362014
+1809121000006113	Waterpipe tobacco consumption	Current	EMISNQWA11		1.80912E+15	1.80912E+15
+2170961000000116	Waterpipe tobacco consumption	Current	137o	137o.00	8.36001E+14	2.17096E+15
+298701000000114	[V]Personal history of tobacco abuse	Ex	ZV116	ZV11600	8517006	15047015
+250385010	Date ceased smoking	Ex	137T	137T.00	160625004	250385010
+649821000006115	Ex cigar smoker	Ex	137O	137O.00	160621008	250377018
+649831000006117	Ex pipe smoker	Ex	137N	137N.00	160620009	250376010
+1059701000000119	Ex roll-up cigarette smoker	Ex	137l	137l.00	4.92191E+14	1.0597E+15
+649841000006110	Ex smoker	Ex	137S	137S.00	8517006	15047015
+2336091000000117	Ex user of electronic cigarette	Ex	1PD	1PD..00	9.08781E+14	2.33609E+15
+418914010	Ex-cigarette smoker	Ex	137j	137j.00	281018007	418914010
+649861000006114	Ex-Cigarette Smoker	Ex	EGTON322		6.49861E+14	6.49861E+14
+250366012	Ex-heavy smoker (20-39/day)	Ex	137A	137A.00	266924008	397739019
+250364010	Ex-light smoker (1-9/day)	Ex	1378	1378.00	266922007	397737017
+250365011	Ex-moderate smoker (10-19/day)	Ex	1379	1379.00	266923002	397738010
+250371017	Ex-smoker - amount unknown	Ex	137F	137F.00	8517006	15047015
+1154471000000114	Ex-smoker annual review	Ex	9km-1	9km..11	5.05761E+14	1.15447E+15
+1123951000000110	Ex-smoker annual review - enhanced services administration	Ex	9km	9km..00	5.05761E+14	1.15447E+15
+250363016	Ex-trivial smoker (<1/day)	Ex	1377	1377.00	266921000	397736014
+250367015	Ex-very heavy smoker (40+/day)	Ex	137B	137B.00	266925009	397740017
+1151791000000117	Recently stopped smoking	Ex	137K0	137K000	5.17211E+14	1.15179E+15
+250373019	Stopped smoking	Ex	137K	137K.00	160617001	250373019
+295259018	Tobacco dependence in remission	Ex	E2513	E251300	191889006	295259018
+250374013	Current non-smoker	Non 	137L	137L.00	160618006	250374013
+397732011	Never smoked tobacco	Non 	1371	1371.00	266919005	397732011
+1488666019	No smokers in the household	Non 	13WK	13WK.00	394964001	1488666019
+14866014	Non-smoker	Non 	1371-1	1371.11	8392000	14866014
+1154431000000112	Non-smoker annual review	Non 	9kn-1	9kn..11	5.05681E+14	1.15443E+15
+1123751000000113	Non-smoker annual review - enhanced services administration	Non 	9kn	9kn..00	5.05681E+14	1.15443E+15
+397991000006116	[X]Mental and behav dis due to use tobacco: withdrawal state	Quitting	Eu173	Eu17300	90755006	150398019
+21681000000118	Anti-smoking monitoring admin.	Quitting	9OO	9OO..00	7.14001E+14	1.56524E+15
+498831000006118	Attends stop smoking monitor.	Quitting	9OO1	9OO1.00	185789006	285791018
+1125741000000111	Brief intervention for smoking cessation	Quitting	67H6	67H6.00	5.06491E+14	1.12574E+15
+2534083012	Carbon monoxide reading at 4 weeks	Quitting	13p6	13p6.00	413753009	2534083012
+1662911000000114	Consent given for follow-up by smoking cessation team	Quitting	9Ndf	9Ndf.00	7.55721E+14	1.66291E+15
+1651711000000113	Consent given for smoking cessation data sharing	Quitting	9NdW	9NdW.00	7.50851E+14	1.65171E+15
+1662951000000113	Declined consent for follow-up by smoking cessation team	Quitting	9Ndg	9Ndg.00	7.55741E+14	1.66295E+15
+1653781000000119	Declined consent for smoking cessation data sharing	Quitting	9NdZ	9NdZ.00	7.51661E+14	1.65378E+15
+1754091000000110	Issue of nicotine replacement therapy voucher	Quitting	ESCTIS1		7.84481E+14	1.89763E+15
+1925121000006113	Issue of nicotine replacement therapy voucher	Quitting	8B2B0	8B2B000	7.84481E+14	1.75409E+15
+250368013	Keeps trying to stop smoking	Quitting	137C	137C.00	160612007	250368013
+1716141000000117	Lost to smoking cessation follow-up	Quitting	13p8	13p8.00	7.68971E+14	1.71614E+15
+1484933010	Negotiated date for cessation of smoking	Quitting	13p0	13p0.00	390901002	1484933010
+457286014	Nicotine replacement therapy	Quitting	8B2B	8B2B.00	313396002	457286014
+1488870013	Nicotine replacement therapy contraindicated	Quitting	8I2I	8I2I.00	395174005	1488870013
+998861000006112	Nicotine replacement therapy provided by community pharmacis	Quitting	8BP3	8BP3.00	2.00211E+14	3.03471E+14
+1484937011	Nicotine replacement therapy provided free	Quitting	8B3f	8B3f.00	390905006	1484937011
+459484017	Nicotine replacement therapy refused	Quitting	8I39	8I39.00	315022003	459484017
+482811000000118	Nicotine replacement therapy using nicotine gum	Quitting	745H1	745H100	2.80801E+14	4.82811E+14
+482831000000114	Nicotine replacement therapy using nicotine inhalator	Quitting	745H2	745H200	2.80811E+14	4.82831E+14
+482851000000119	Nicotine replacement therapy using nicotine lozenges	Quitting	745H3	745H300	7.90131E+14	1.76645E+15
+482791000000119	Nicotine replacement therapy using nicotine patches	Quitting	745H0	745H000	7.90121E+14	1.76643E+15
+150398019	Nicotine withdrawal	Quitting	E023	E023.00	90755006	150398019
+482871000000111	Other specified smoking cessation therapy	Quitting	745Hy	745Hy00	710081004	3043296015
+459524018	Over the counter nicotine replacement therapy	Quitting	8B3Y	8B3Y.00	315055008	459524018
+1563081000000115	Practice based smoking cessation programme start date	Quitting	13p50	13p5000	7.12971E+14	1.56308E+15
+1488577017	Ready to stop smoking	Quitting	137b	137b.00	394872000	1488577017
+904001000006111	Ready to stop smoking	Quitting	EMISQRE12		9.04001E+14	9.04001E+14
+1709641000000115	Referral for smoking cessation service offered	Quitting	9NS02	9NS0200	7.67641E+14	1.70964E+15
+1715591000006117	Referral to NHS stop smoking service	Quitting	8HkQ	8HkQ.00	5.05281E+14	1.12292E+15
+1489355012	Referral to smoking cessation advisor	Quitting	8H7i	8H7i.00	395700008	1489355012
+2251911000000114	Referral to smoking cessation service	Quitting	8T08	8T08.00	8.71661E+14	2.25191E+15
+459722017	Referral to stop-smoking clinic	Quitting	8HTK	8HTK.00	315232003	459722017
+285792013	Refuses stop smoking monitor	Quitting	9OO2	9OO2.00	765001003	3656021018
+1780273014	Seen by smoking cessation advisor	Quitting	9N2k	9N2k.00	401068004	1780273014
+736241000000116	Smoking cessation - enhanced services administration	Quitting	9kc	9kc..00	3.74361E+14	1.15264E+15
+2203381000000113	Smoking cessation 12 week follow-up	Quitting	8HBP	8HBP.00	8.50331E+14	2.20338E+15
+482771000000118	Smoking cessation drug therapy	Quitting	745H4	745H400	713700008	3297364011
+1741641000006117	Smoking cessation ESA monitoring template completed	Quitting	9kc0-1	9kc0.11	3.74391E+14	1.15271E+15
+1484932017	Smoking cessation milestones	Quitting	13p	13p..00	390900001	1484932017
+1773560017	Smoking cessation programme start date	Quitting	13p5	13p5.00	401160008	1773560017
+492511000000117	Smoking cessation therapy	Quitting	745H	745H.00	710081004	3043296015
+489931000000114	Smoking cessation therapy NOS	Quitting	745Hz	745Hz00	710081004	3043296015
+1704491000006115	Smoking cessatn monitor template complet - enhanc serv admin	Quitting	9kc0	9kc0.00	3.74391E+14	1.15271E+15
+1488873010	Smoking free weeks	Quitting	13p4	13p4.00	395177003	1488873010
+1708051000000119	Smoking status at 12 weeks	Quitting	13p7	13p7.00	7.66931E+14	1.70805E+15
+1746211000006111	Smoking status at 12 weeks	Quitting	EMISNQSM8		1.74621E+15	1.74621E+15
+1484934016	Smoking status at 4 weeks	Quitting	13p1	13p1.00	390902009	1484934016
+1484936019	Smoking status at 52 weeks	Quitting	13p3	13p3.00	390904005	1484936019
+1484935015	Smoking status between 4 and 52 weeks	Quitting	13p2	13p2.00	390903004	1484935015
+25281000000119	Stop smoking clinic admin.	Quitting	9OO-1	9OO..11	7.14021E+14	1.56526E+15
+1123541000000118	Stop smoking face to face follow-up	Quitting	8HBM	8HBM.00	5.05581E+14	1.12354E+15
+1785671000006116	Stop smoking invitation first SMS text message	Quitting	9OOB0	9OOB000	7.83401E+14	1.75176E+15
+1785681000006118	Stop smoking invitation second SMS text message	Quitting	9OOB1	9OOB100	7.83441E+14	1.75186E+15
+1751721000000113	Stop smoking invitation short message service text message	Quitting	9OOB	9OOB.00	7.83381E+14	1.75172E+15
+1785691000006115	Stop smoking invitation third SMS text message	Quitting	9OOB2	9OOB200	7.83481E+14	1.75195E+15
+128311000006112	Stop smoking monitor 1st lettr	Quitting	9OO4	9OO4.00	185792005	285794014
+128321000006116	Stop smoking monitor 2nd lettr	Quitting	9OO5	9OO5.00	185793000	285795010
+128331000006118	Stop smoking monitor 3rd lettr	Quitting	9OO6	9OO6.00	185794006	285796011
+16261000000110	Stop smoking monitor admin.NOS	Quitting	9OOZ	9OOZ.00	7.14001E+14	1.56718E+15
+285793015	Stop smoking monitor default	Quitting	9OO3	9OO3.00	185791003	285793015
+128361000006110	Stop smoking monitor phone inv	Quitting	9OO8	9OO8.00	185796008	285798012
+128371000006115	Stop smoking monitor verb.inv.	Quitting	9OO7	9OO7.00	185795007	285797019
+128381000006117	Stop smoking monitor.chck done	Quitting	9OOA	9OOA.00	185799001	285806011
+1694421000006112	Stop smoking monitoring admin.	Quitting	9OO-z366		7.14001E+14	1.69442E+15
+21691000000116	Stop smoking monitoring admin.	Quitting	9OO-2	9OO..12	7.14001E+14	1.56524E+15
+285805010	Stop smoking monitoring delete	Quitting	9OO9	9OO9.00	185798009	285805010
+1488576014	Thinking about stopping smoking	Quitting	137c	137c.00	394871007	1488576014
+904031000006115	Thinking about stopping smoking	Quitting	EMISQTH1		9.04031E+14	9.04031E+14
+250372012	Trying to give up smoking	Quitting	137G	137G.00	160616005	250372012
+1879431000006110	User of electronic cigarette	Quitting	EMISNQUS72		1.87943E+15	1.87943E+15
+2265711000000117	User of electronic cigarette	Quitting	1PC	1PC..00	722499006	3332504019
+2462431000000110	Varenicline smoking cessation therapy offered	Quitting	8B31G	8B31G00	9.66991E+14	2.46243E+15
+909391000006117	[RFC] Smoking cessation	Quitting	HNGZ011		9.09391E+14	9.09391E+14
+397181000006117	[X]Men & beh dis due tobacco: resid & late-onset psychot dis	Current	Eu177	Eu17700	30310000	50736017
+397271000006110	[X]Men & behav dis due to use tobacco: oth men & behav dis	Current	Eu17y	Eu17y00	30310000	50736017
+397281000006113	[X]Men & behav dis due tobacco: withdrawl state wth delirium	Quitting	Eu174	Eu17400	90755006	150398019
+397461000006119	[X]Ment & behav dis due use tobacco: unsp ment & behav dis	Current	Eu17z	Eu17z00	30310000	50736017
+397971000006117	[X]Mental and behav dis due to use tobacco: amnesic syndrome	Current	Eu176	Eu17600	30310000	50736017
+1027541000006110	Adverse reaction to Boots Nicotine	Quitting	ALLERGY12691NEMIS		1.02754E+15	1.02754E+15
+1088451000006117	Adverse reaction to Nicotinell	Quitting	ALLERGY6526NEMIS		1.08845E+15	1.08845E+15
+1101081000006119	Adverse reaction to Nicotinell Classic	Quitting	ALLERGY22315NEMIS		1.10108E+15	1.10108E+15
+1928201000006116	Adverse reaction to Nicotinell Support	Quitting	ALLERGY95045NEMIS		1.9282E+15	1.9282E+15
+1067161000006114	Adverse reaction to Nicotinell Tts 10	Quitting	ALLERGY4824EMIS		1.06716E+15	1.06716E+15
+1067171000006119	Adverse reaction to Nicotinell Tts 20	Quitting	ALLERGY4825EMIS		1.06717E+15	1.06717E+15
+1067181000006116	Adverse reaction to Nicotinell Tts 30	Quitting	ALLERGY4826EMIS		1.06718E+15	1.06718E+15
+1771191000006119	Attends smoking cessation clinic not at practice	Quitting	EMISNQAT12		2.01941E+14	3.07621E+14
+825531000033114	Boots Nicotine	Quitting	DRGA12691NEMIS		8.25531E+14	8.25531E+14
+926781000006115	Carbon monoxide reading	Quitting	EMISNQCA27		9.26781E+14	9.26781E+14
+918941000006116	Carbon monoxide reading week 1	Quitting	EMISNQCA28		9.18941E+14	9.18941E+14
+923791000006110	Carbon monoxide reading week 2	Quitting	EMISNQCA29		9.23791E+14	9.23791E+14
+926761000006113	Carbon monoxide reading week 3	Quitting	EMISNQCA25		9.26761E+14	9.26761E+14
+926771000006118	Carbon monoxide reading week 4	Quitting	EMISNQCA26		9.26771E+14	9.26771E+14
+904111000006113	Carbon monoxide validation confirms non-smoker	Non 	EMISQCO2		9.04111E+14	9.04111E+14
+904121000006117	Carbon monoxide validation confirms smoker	Current	EMISQCO3		9.04121E+14	9.04121E+14
+1755201000006117	Consent given for follow-up evaluation after smoking cessation intervention	Quitting	9NdV	9NdV.00	7.50821E+14	1.65165E+15
+604961000006114	Current Smoker NOS	Current	EGTON1025		6.04961E+14	6.04961E+14
+854151000006111	Date stopped smoking	Ex	EGTON328		8.54151E+14	8.54151E+14
+1755231000006113	Declined consent for follow-up evaluation after smoking cessation intervention	Quitting	9NdY	9NdY.00	7.51101E+14	1.65247E+15
+1662541000006111	Dental recall - tobacco user	Current	EMISD_DE197		1.66254E+15	1.66254E+15
+649851000006112	Ex- Rolled Tobacco Smoker	Ex	EGTON1027		6.49851E+14	6.49851E+14
+852991000006114	Ex-cigar smoker	Ex	EGTON1026		8.52991E+14	8.52991E+14
+854051000006112	Ex-pipe smoker	Ex	EGTON324		8.54051E+14	8.54051E+14
+853001000006110	Ex-smoker NOS	Ex	EGTON1028		8.53001E+14	8.53001E+14
+903041000006110	EX-Smoker NOS	Ex	137F-99	137F.99	266928006	9.03041E+14
+854951000006113	Grade A non-smoker	Non 	EGTONGR10		8.54951E+14	8.54951E+14
+854961000006110	Grade B light smoker (1-10/day)	Current	EGTONGR11		8.54961E+14	8.54961E+14
+854981000006117	Grade C moderate smoker (11-20/day)	Current	EGTONGR12		8.54981E+14	8.54981E+14
+855001000006114	Grade D heavy smoker (>20 Day)	Current	EGTONGR13		8.55001E+14	8.55001E+14
+852111000006118	Gradual smoking reduction	Current	EMISQGR1		8.52111E+14	8.52111E+14
+1778181000006110	Group session: Stop smoking education programme	Quitting	EMISNQGR20		1.77818E+15	1.77818E+15
+1974931000006114	"Mental & behav dis due to tobacco: resid & late-onset psychot dis, dementia"	Current	EMISICD10|F1773		1.97493E+15	1.97493E+15
+1974841000006114	"Mental & behav dis due to tobacco: resid & late-onset psychot dis, flashbacks"	Current	EMISICD10|F1770		1.97484E+15	1.97484E+15
+1974981000006110	"Mental & behav dis due to tobacco: resid & late-onset psychot dis, late-onset psychotic disorder"	Current	EMISICD10|F1775		1.97498E+15	1.97498E+15
+1974961000006117	"Mental & behav dis due to tobacco: resid & late-onset psychot dis, other persisting cognitive impairment"	Current	EMISICD10|F1774		1.97496E+15	1.97496E+15
+1974871000006118	"Mental & behav dis due to tobacco: resid & late-onset psychot dis, personality or behaviour disorder"	Current	EMISICD10|F1771		1.97487E+15	1.97487E+15
+1974911000006115	"Mental & behav dis due to tobacco: resid & late-onset psychot dis, residual affective disorder"	Current	EMISICD10|F1772		1.97491E+15	1.97491E+15
+1974581000006118	"Mental & behav dis due to tobacco: withdrawl state wth delirium, with convulsions"	Quitting	EMISICD10|F1741		1.97458E+15	1.97458E+15
+1974571000006116	"Mental & behav dis due to tobacco: withdrawl state wth delirium, without convulsions"	Quitting	EMISICD10|F1740		1.97457E+15	1.97457E+15
+1973821000006117	"Mental & behav dis due to use tobacco: acute intoxication, uncomplicated"	Current	EMISICD10|F1700		1.97382E+15	1.97382E+15
+1973981000006113	"Mental & behav dis due to use tobacco: acute intoxication, with coma"	Current	EMISICD10|F1705		1.97398E+15	1.97398E+15
+1974031000006110	"Mental & behav dis due to use tobacco: acute intoxication, with convulsions"	Current	EMISICD10|F1706		1.97403E+15	1.97403E+15
+1973921000006114	"Mental & behav dis due to use tobacco: acute intoxication, with delirium"	Current	EMISICD10|F1703		1.97392E+15	1.97392E+15
+1973851000006114	"Mental & behav dis due to use tobacco: acute intoxication, with other medical complications"	Current	EMISICD10|F1702		1.97385E+15	1.97385E+15
+1973951000006117	"Mental & behav dis due to use tobacco: acute intoxication, with perceptual distortions"	Current	EMISICD10|F1704		1.97395E+15	1.97395E+15
+1973841000006112	"Mental & behav dis due to use tobacco: acute intoxication, with trauma or other bodily injury"	Current	EMISICD10|F1701		1.97384E+15	1.97384E+15
+1974811000006110	"Mental & behav dis due to use tobacco: psychotic disorder, mixed"	Current	EMISICD10|F1756		1.97481E+15	1.97481E+15
+1974681000006119	"Mental & behav dis due to use tobacco: psychotic disorder, predominantly delusional"	Current	EMISICD10|F1751		1.97468E+15	1.97468E+15
+1974761000006115	"Mental & behav dis due to use tobacco: psychotic disorder, predominantly depressive symptoms"	Current	EMISICD10|F1754		1.97476E+15	1.97476E+15
+1974711000006118	"Mental & behav dis due to use tobacco: psychotic disorder, predominantly hallucinatory"	Current	EMISICD10|F1752		1.97471E+15	1.97471E+15
+1974791000006111	"Mental & behav dis due to use tobacco: psychotic disorder, predominantly manic symptoms"	Current	EMISICD10|F1755		1.97479E+15	1.97479E+15
+1974741000006119	"Mental & behav dis due to use tobacco: psychotic disorder, predominantly polymorphic"	Current	EMISICD10|F1753		1.97474E+15	1.97474E+15
+1974651000006110	"Mental & behav dis due to use tobacco: psychotic disorder, schizophrenia-like"	Current	EMISICD10|F1750		1.97465E+15	1.97465E+15
+1974421000006116	"Mental and behav dis due to use tobacco: dependence syndr, continuous use"	Current	EMISICD10|F1725		1.97442E+15	1.97442E+15
+1974281000006116	"Mental and behav dis due to use tobacco: dependence syndr, currently abstinent"	Current	EMISICD10|F1720		1.97428E+15	1.97428E+15
+1974311000006119	"Mental and behav dis due to use tobacco: dependence syndr, currently abstinent, but in a protected environment"	Current	EMISICD10|F1721		1.97431E+15	1.97431E+15
+1974371000006111	"Mental and behav dis due to use tobacco: dependence syndr, currently abstinent, but receiving treatment with aversive or blocking drugs"	Current	EMISICD10|F1723		1.97437E+15	1.97437E+15
+1974341000006115	"Mental and behav dis due to use tobacco: dependence syndr, currently on a clinically supervised maintenance or replacement regime [controlled dependence]"	Current	EMISICD10|F1722		1.97434E+15	1.97434E+15
+1974401000006114	"Mental and behav dis due to use tobacco: dependence syndr, currently using the substance [active dependence]"	Current	EMISICD10|F1724		1.9744E+15	1.9744E+15
+1974461000006110	"Mental and behav dis due to use tobacco: dependence syndr, episodic use [dipsomania]"	Current	EMISICD10|F1726		1.97446E+15	1.97446E+15
+1974501000006110	"Mental and behav dis due to use tobacco: withdrawal state, uncomplicated"	Quitting	EMISICD10|F1730		1.9745E+15	1.9745E+15
+1974531000006119	"Mental and behav dis due to use tobacco: withdrawal state, with convulsions"	Quitting	EMISICD10|F1731		1.97453E+15	1.97453E+15
+983101000006113	Misuse of Nicotine	Current	EMISNQSU2		9.83101E+14	9.83101E+14
+1697731000006111	Nicotine replacement therapy not tolerated	Quitting	EMISNQNI4		1.69773E+15	1.69773E+15
+1979481000006118	Nicotine replacement therapy using nicotine mouth spray	Quitting	EMISNQNI19		1.97948E+15	1.97948E+15
+1979471000006116	Nicotine replacement therapy using nicotine nasal spray	Quitting	EMISNQNI18		1.97947E+15	1.97947E+15
+1676351000006110	Nicotine replacement therapy using nicotine sublingual tablets	Quitting	EMISNQNI3		1.67635E+15	1.67635E+15
+729631000033113	Nicotinell	Quitting	DRGA6526NEMIS		7.29631E+14	7.29631E+14
+1007331000033115	Nicotinell Classic	Quitting	DRGA22315NEMIS		1.00733E+15	1.00733E+15
+2135531000033115	Nicotinell Support	Quitting	DRGA95045NEMIS		2.13553E+15	2.13553E+15
+402431000033116	Nicotinell Tts 10	Quitting	DRGA4824EMIS		4.02431E+14	4.02431E+14
+402531000033117	Nicotinell Tts 20	Quitting	DRGA4825EMIS		4.02531E+14	4.02531E+14
+402631000033118	Nicotinell Tts 30	Quitting	DRGA4826EMIS		4.02631E+14	4.02631E+14
+1009271000006118	Non Smoker - Nos	Non 	ASDFGNO1		1.00927E+15	1.00927E+15
+37311000006117	Other anti-smoking drug given	Quitting	EMISHGT222		3.7311E+13	3.7311E+13
+854111000006110	Past smoker	Ex	EGTON327		8.54111E+14	8.54111E+14
+904021000006118	Previous smoking quit attempts	Current	EMISQPR6		9.04021E+14	9.04021E+14
+2982426011	Provision of smoking cessation leaflet	Current	ESCTPR3		699033005	2982426011
+1777011000006118	Reason for referral: Smoking Cessation	Quitting	EMISNQRE259		1.77701E+15	1.77701E+15
+2717211000000112	Signposting to smoking cessation service	Current	ESCTSI77		1.08438E+15	2.71721E+15
+137711000006111	Smoker (Read codes)	Current	EMISSMRE1		1.37711E+14	1.37711E+14
+961581000006114	Smokes/uses tobacco products	Current	EMISCSM1		9.61581E+14	9.61581E+14
+137751000006112	Smoking Age	Current	EGTONSM2		1.37751E+14	1.37751E+14
+137761000006114	Smoking Age Ceased	Ex	EGTONSM4		1.37761E+14	1.37761E+14
+1825081000006118	Smoking cessation 12 week F/U completed	Quitting	EMISNQSM17		1.82508E+15	1.82508E+15
+1825071000006116	Smoking cessation 12 week F/U not completed	Quitting	EMISNQSM16		1.82507E+15	1.82507E+15
+1823811000006115	Smoking cessation 12 week follow up	Quitting	EMISNQSM15		1.82381E+15	1.82381E+15
+904151000006114	Smoking cessation 4 week F/U completed	Quitting	EMISQSM5		9.04151E+14	9.04151E+14
+904141000006112	Smoking cessation 4 week F/U not completed	Quitting	EMISQSM4		9.04141E+14	9.04141E+14
+904071000006117	Smoking cessation 4 week follow up	Quitting	EMISQSM2		9.04071E+14	9.04071E+14
+904161000006111	Smoking cessation 52 week F/U completed	Quitting	EMISQSM6		9.04161E+14	9.04161E+14
+904171000006116	Smoking cessation 52 week F/U not completed	Quitting	EMISQSM7		9.04171E+14	9.04171E+14
+904081000006119	Smoking cessation 52 week follow up	Quitting	EMISQSM3		9.04081E+14	9.04081E+14
+904221000006110	Smoking cessation bupropion therapy	Quitting	EMISQSM15		9.04221E+14	9.04221E+14
+904201000006117	Smoking cessation confidence score	Quitting	EMISQSM11		9.04201E+14	9.04201E+14
+904181000006118	Smoking cessation counselling	Quitting	EMISQSM12		9.04181E+14	9.04181E+14
+904231000006113	Smoking cessation counselling by telephone	Quitting	EMISQSM13		9.04231E+14	9.04231E+14
+904241000006115	Smoking cessation counselling in person	Quitting	EMISQSM14		9.04241E+14	9.04241E+14
+904011000006114	Smoking cessation declaration signed by patient	Quitting	EMISQSM9		9.04011E+14	9.04011E+14
+1626121000006116	Smoking cessation drug therapy - varenicline	Quitting	EMISNQSM6		1.62612E+15	1.62612E+15
+1979491000006115	Smoking cessation follow-up	Quitting	EMISNQSM20		1.97949E+15	1.97949E+15
+904191000006115	Smoking cessation motivation score	Quitting	EMISQSM10		9.04191E+14	9.04191E+14
+1591651000006110	Smoking cessation referral declined	Current	EMISNQSM5		1.59165E+15	1.59165E+15
+904211000006119	Smoking cessation service patient satisfaction score	Quitting	EMISQSM16		9.04211E+14	9.04211E+14
+852121000006114	Smoking cessation-maintain abstinence	Quitting	EMISQSM17		8.52121E+14	8.52121E+14
+852131000006112	Smoking cessation-practice nurse support	Quitting	EMISQSM18		8.52131E+14	8.52131E+14
+856371000006111	Smoking clinic	Quitting	EGTONSM6		8.56371E+14	8.56371E+14
+1819411000006114	Smoking increased	Current	EMISNQSM14		1.81941E+15	1.81941E+15
+1758981000006111	Stop smoking monitoring invitation first SMS text message sent	Current	EMISNQST14		1.75898E+15	1.75898E+15
+1758991000006114	Stop smoking monitoring invitation second SMS text message sent	Current	EMISNQST15		1.75899E+15	1.75899E+15
+1758971000006113	Stop smoking monitoring invitation SMS text message sent	Current	EMISNQST13		1.75897E+15	1.75897E+15
+1759001000006114	Stop smoking monitoring invitation third SMS text message sent	Current	EMISNQST16		1.759E+15	1.759E+15
+1833971000006116	Stop Smoking satisfaction questionnaire given	Quitting	EMISNQST27		1.83397E+15	1.83397E+15
+903051000006112	Tobacco Consumption Nil	Non 	137L-99	137L.99	160618006	9.03051E+14
+16588018	Tobacco deposit on teeth	Current	J0364	J036400	9473008	511413011
+2462391000000119	Varenicline smoking cessation therapy declined	Current	8IEM0	8IEM000	9.66971E+14	2.46239E+15
+904041000006113	Waking time to first cigarette	Current	EMISQWA1		9.04041E+14	9.04041E+14
